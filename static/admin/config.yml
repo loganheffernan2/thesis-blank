@@ -20,5 +20,6 @@ collections:
         label: notes
         widget: list
         fields:
-          - { name: title, label: Title, widget: text }
+          - { name: number, label: Number, widget: text }
           - { name: image, label: Image, widget: image }
+          - { name: desc, label: Desc., widget: text }
