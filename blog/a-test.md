@@ -1,7 +1,7 @@
 ---
-path: /first-post
+path: /rob-blair-kurt-woerpel
 date: 2020-03-31T01:29:53.520Z
-title: A Test
+title: Rob Blair and Kurt Woerpel
 subhead: 'Rob Blair and Kurt Woerpel on publishing, teaching, and personal negotiations.'
 ---
 **Rob Blair** My name is Robert Blair. I’m currently a visiting instructor at Pratt Institute. Me and Kurt graduated in 2014 from Pratt. In addition to that, we are both practicing freelance designers and art directors. We run a publishing project called TXTBooks that started immediately after we graduated. A lot of my personal practice is photo-based and image-based as well as TXTbooks being an output for my own personal non-commercial practice.
