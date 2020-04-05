@@ -3,6 +3,28 @@ path: /rob-blair-kurt-woerpel
 date: 2020-03-31T01:29:53.520Z
 title: Rob Blair and Kurt Woerpel
 subhead: 'Rob Blair and Kurt Woerpel on publishing, teaching, and personal negotiations.'
+notes:
+  - desc: >-
+      From the TXTBooks website: "TXTbooks is an artist-run independent
+      publishing initiative in Brooklyn, NY.
+
+
+      Our interest is in self-publishing as a collective while facilitating
+      projects with artists and writers working across many disciplines. Our
+      best case scenario is to publish those who have not yet considered
+      producing a zine, or at least don't consider it their main practice; Our
+      ultimate goal is to create dumb jokes and passion projects with as many
+      people as possible.
+
+
+      Our publications are resolved via Risograph printing for cost-effective
+      self production and as an informal way to aesthetically bind our output.
+
+
+      Founded in 2014, TXTbooks is currently maintained by Robert Blair, Thomas
+      Colligan, Nichole Shinn, Rose Wong, and Kurt Woerpel."
+    image: assets/txtbooks.png
+    number: '1'
 ---
 **Rob Blair** My name is Robert Blair. I’m currently a visiting instructor at Pratt Institute. Me and Kurt graduated in 2014 from Pratt. In addition to that, we are both practicing freelance designers and art directors. We run a publishing project called TXTBooks that started immediately after we graduated. A lot of my personal practice is photo-based and image-based as well as TXTbooks being an output for my own personal non-commercial practice.
 
