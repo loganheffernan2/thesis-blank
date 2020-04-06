@@ -29,7 +29,8 @@
     font-family: "Ortica";
     padding-left: 2.5%;
     padding-right: 2.5%;
-    font-size: 12pt;}
+    font-size: 12pt;
+    white-space: nowrap;}
 
 #headerWrap li {
     position: relative;
