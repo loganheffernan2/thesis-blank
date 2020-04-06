@@ -10,21 +10,34 @@ export default function Template({
 }) {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
+  
   return (
     <div id="postWrap">
       <div id="vertDiv"></div>
       <Header title={frontmatter.title} date={frontmatter.date}/>
       <div id="postContent">
+      <span class="headerBumper"></span>
+      <div id="artSum">{frontmatter.subhead}</div>
+      <div class="titleDiv"></div>
         <div
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: html }}
         />
       </div>
       <div id="postNotes">
-        <div
-          className="blog-post-content"
-          dangerouslySetInnerHTML={{ __html: html }}
-        />
+      <span class="headerBumper"></span>
+        {
+        frontmatter.notes.map(notes=> {
+        return (
+          <li key={notes.number}>
+            <div class="titleDiv"></div>
+            <span class="noteNumb">{notes.number}</span>
+            <span class="noteDesc">{notes.desc}</span>
+            <img src={notes.image}></img>
+            </li>
+        )
+        }
+        )}
       </div>
       <Footer />
     </div>
@@ -39,6 +52,9 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         path
         title
+        subhead
+        notes {number, desc, image}
+
       }
     }
   }

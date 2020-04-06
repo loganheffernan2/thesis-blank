@@ -12,7 +12,6 @@ class Header extends Component {
                 <li>{this.props.title}</li>
                 <li>{this.props.date}</li>
             </ul>
-            <div id="headerBumper"></div>
             </React.Fragment>
         )
     }

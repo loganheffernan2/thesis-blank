@@ -22,4 +22,4 @@ collections:
         fields:
           - { name: number, label: Number, widget: text }
           - { name: image, label: Image, widget: image }
-          - { name: desc, label: Desc., widget: text }
+          - { name: desc, label: Desc., widget: string }

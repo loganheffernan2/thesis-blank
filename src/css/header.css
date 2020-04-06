@@ -19,8 +19,10 @@
 
 #headerWrap {
     position: fixed;
+    z-index: 999;
     width: 100%;
     height: 5vh;
+    top: 0;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -39,9 +41,3 @@
 #headerWrap li:nth-child(2) {
     font-weight: bold;
     color: blue;}
-
-#headerBumper {
-    position: relative;
-    width: 100%;
-    height: 5vh;
-}
