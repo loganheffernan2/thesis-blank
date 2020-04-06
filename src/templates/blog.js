@@ -33,7 +33,7 @@ export default function Template({
             <div class="titleDiv"></div>
             <span class="noteNumb">{notes.number}</span>
             <span class="noteDesc">{notes.desc}</span>
-            <img src={notes.image}></img>
+            <img src={notes.image} alt=""></img>
             </li>
         )
         }
