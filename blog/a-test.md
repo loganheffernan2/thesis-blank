@@ -28,13 +28,13 @@ notes:
   - desc: >-
       New York City's cost of living stands at 187.2% that of the national
       average.
-    image: assets/empty.png
+    image: ''
     number: '2'
   - desc: >-
       During the primaries for the United State's 2020 election cycle,
       Democratic candidate Michael Bloomberg hired high-traffic Instagram meme
       pages to generate promotional memes.
-    image: assets/empty.png
+    image: ''
     number: '3'
   - desc: >-
       At the time of this interview, Kurt was working as art director for
@@ -51,7 +51,7 @@ notes:
   - desc: >-
       Platform is a Chicago-based graphic design studio with a publishing arm,
       Platform Editions.
-    image: assets/empty.png
+    image: ''
     number: '6'
   - desc: >-
       From the Precarious Worker's Brigade website: "We are a UK-based group of
@@ -63,7 +63,7 @@ notes:
       we seek, our political project involves developing tactics, strategies,
       formats, practices, dispositions, knowledges and tools for making this
       happen."
-    image: assets/empty.png
+    image: ''
     number: '7'
   - desc: >-
       From the Evening Class website: Evening Class is an experiment in
@@ -78,14 +78,14 @@ notes:
       Through these groups we work on developing a curriculum of both theory and
       practice, often working in collaboration with other like-minded
       organisations and individuals."
-    image: assets/empty.png
+    image: ''
     number: '8'
   - desc: >-
       From the SSHH website: "Sixth Street Haunted House is a new multi-purpose
       mutant space where you can come and learn, make, buy or share something.
       We opened on October 31st, 2018. SSHH is run by Bráulio Amado and Nick
       Schiarizzi."
-    image: assets/empty.png
+    image: ''
     number: '9'
   - desc: >-
       From the XXXI website: "XXXI (‘Thirty-One’) is a mixed-use community space
