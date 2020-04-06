@@ -1,7 +1,7 @@
 ---
 path: /rob-blair-kurt-woerpel
 date: 2020-03-31T01:29:53.520Z
-title: Rob Blair and Kurt Woerpel
+title: Rob Blair + Kurt Woerpel
 subhead: 'On Publishing, Teaching, and Balance'
 notes:
   - desc: >-

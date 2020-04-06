@@ -13,7 +13,7 @@
 #postWrap {
     position: absolute;
     display: block;
-    height: 100vh;
+    height: auto;
     overflow: hidden;
     z-index: 999;}
 
@@ -32,8 +32,7 @@
     top: 0; margin-top: 0;
     display: inline-block;
     width: 60%;
-    height: 100%;
-    overflow: scroll;
+    height: auto%;
     text-align: left;
     padding-left: 2.5%;
     padding-right: 2.5%;
@@ -57,7 +56,7 @@
     line-height: 1.5rem;}
 
 #postNotes {
-    position: relative;
+    position: fixed;
     float: right;
     top: 0; margin-top: 0;
     display: inline-block;
@@ -67,7 +66,7 @@
     text-align: left;
     padding-left: 2.5%;
     padding-right: 2.5%;
-    padding-bottom: 2.5%;
+    padding-bottom: 7.5vh;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12pt;
     line-height: 1.5rem;}
@@ -88,7 +87,8 @@
     position: relative;
     float: left;
     display: inline-block;
-    width: 100%;}
+    width: 100%;
+    padding-bottom: 2.5%;}
 
 .contentNote {
     color: blue;}
@@ -99,8 +99,7 @@ li {
     @media (min-aspect-ratio: 1/1) {
     
         #artSum {
-            font-size: 36pt;
-            line-height: 120%;}
+            font-size: 36pt;}
         .noteNumb {
             width: 10%;}
         .noteDesc {
