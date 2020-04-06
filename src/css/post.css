@@ -41,7 +41,7 @@
 
 #artSum {
     font-family: "Ortica";
-    font-size: 36pt;
+    font-size: 24pt;
     line-height: 120%;}
 
 .titleDiv {
@@ -98,6 +98,9 @@ li {
 
     @media (min-aspect-ratio: 1/1) {
     
+        #artSum {
+            font-size: 36pt;
+            line-height: 120%;}
         .noteNumb {
             width: 10%;}
         .noteDesc {
