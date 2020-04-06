@@ -25,8 +25,77 @@ notes:
       Thomas Colligan, Nichole Shinn, Rose Wong, and Kurt Woerpel."
     image: assets/txtbooks.png
     number: '1'
+  - desc: >-
+      New York City's cost of living stands at 187.2% that of the national
+      average.
+    image: assets/empty.png
+    number: '2'
+  - desc: >-
+      During the primaries for the United State's 2020 election cycle,
+      Democratic candidate Michael Bloomberg hired high-traffic Instagram meme
+      pages to generate promotional memes.
+    image: assets/empty.png
+    number: '3'
+  - desc: >-
+      At the time of this interview, Kurt was working as art director for
+      Interview Magazine.
+    image: assets/interview.png
+    number: '4'
+  - desc: >-
+      From 1969 to 1985, Michigan's Detroit Printing Co-op exemplifies the
+      counter-capital potential of publishing. The co-op, operated as a
+      worker-owned workshop, produced radical leftist materials with limited
+      machinery.
+    image: assets/dpc-bug.png
+    number: '5'
+  - desc: >-
+      Platform is a Chicago-based graphic design studio with a publishing arm,
+      Platform Editions.
+    image: assets/empty.png
+    number: '6'
+  - desc: >-
+      From the Precarious Worker's Brigade website: "We are a UK-based group of
+      precarious workers in culture & education. We call out in solidarity with
+      all those struggling to make a living in this climate of instability and
+      enforced austerity. ¶ The PWB’s praxis springs from a shared commitment to
+      developing research and actions that are practical, relevant and easily
+      shared and applied. If putting an end to precarity is the social justice
+      we seek, our political project involves developing tactics, strategies,
+      formats, practices, dispositions, knowledges and tools for making this
+      happen."
+    image: assets/empty.png
+    number: '7'
+  - desc: >-
+      From the Evening Class website: Evening Class is an experiment in
+      self-organised education that has been active since January 2016. It's a
+      space where we can cultivate common interests, develop research and
+      collectively decide the class’s programme. Our programme takes the form of
+      public workshops, talks and debates, reading groups, radio broadcasting,
+      performances, walks, and publishing. ¶ We currently operate through
+      different working groups that feed their research back into the
+      collective. These working groups explore a range of themes, like
+      unionising design practices, post-capitalist desire and the commons.
+      Through these groups we work on developing a curriculum of both theory and
+      practice, often working in collaboration with other like-minded
+      organisations and individuals."
+    image: assets/empty.png
+    number: '8'
+  - desc: >-
+      From the SSHH website: "Sixth Street Haunted House is a new multi-purpose
+      mutant space where you can come and learn, make, buy or share something.
+      We opened on October 31st, 2018. SSHH is run by Bráulio Amado and Nick
+      Schiarizzi."
+    image: assets/empty.png
+    number: '9'
+  - desc: >-
+      From the XXXI website: "XXXI (‘Thirty-One’) is a mixed-use community space
+      for designers (and others) to exhibit, teach, and discuss self-initiated
+      work; a shared studio space; a residency for designers; and an online (and
+      sometimes physical) store."
+    image: assets/empty.png
+    number: '10'
 ---
-**Rob Blair** My name is Robert Blair. I’m currently a visiting instructor at Pratt Institute. Me and Kurt graduated in 2014 from Pratt. In addition to that, we are both practicing freelance designers and art directors. We run a publishing project called TXTBooks that started immediately after we graduated. A lot of my personal practice is photo-based and image-based as well as TXTbooks <span class="contentNote">(1)</span> being an output for my own personal non-commercial practice.  
+**Rob Blair** My name is Robert Blair. I’m currently a visiting instructor at Pratt Institute. Me and Kurt graduated in 2014 from Pratt. In addition to that, we are both practicing freelance designers and art directors. We run a publishing project called [TXTBooks](http://www.txtbooks.us/) that started immediately after we graduated. A lot of my personal practice is photo-based and image-based as well as TXTbooks <span class="contentNote">(1)</span> being an output for my own personal non-commercial practice.  
 
 <br/>
 
@@ -46,7 +115,7 @@ notes:
 
 <br/>
 
-**KW** I think there’s so much difficulty in being a designer and working now—working in America, specifically, and even New York more specifically to America. It all feeds into so many things: high cost of living, low government funding. These are considerations you have to make. In some ways, it’s hard to blame people that want to take corporate jobs who have student loan debt or a medical condition or any other on-going factor. Honestly, a bunch of corporate jobs are super easy. You work maybe 15-20% of the day and then wait on emails the rest of the day while getting some cushy money. Most people who work at corporate jobs just do other work all day. I mean, it does feel bad—to a certain degree.  
+**KW** I think there’s so much difficulty in being a designer and working now—working in America, specifically, and even New York more specifically to America. <span class="contentNote">(2)</span> It all feeds into so many things: high cost of living, low government funding. These are considerations you have to make. In some ways, it’s hard to blame people that want to take corporate jobs who have student loan debt or a medical condition or any other on-going factor. Honestly, a bunch of corporate jobs are super easy. You work maybe 15-20% of the day and then wait on emails the rest of the day while getting some cushy money. Most people who work at corporate jobs just do other work all day. I mean, it does feel bad—to a certain degree.  
 
 <br/>
 
@@ -54,7 +123,7 @@ notes:
 
 <br/>
 
-**KW** Also, one of those things is seeing what people do within their role as they get promoted. I think a good example is art directors who will or will not advocate for their illustrators to be paid more for a spot or internally pushing on things like that. I think there is so much grey area; in the last couple weeks, one of the things a bunch of us were all talking about is the morality of working for Bloomberg Businessweek versus working for the Bloomberg presidential campaign. I think the presidential campaign is clearly worse than working for Bloomberg Businessweek. You could get into the politics of that publication and the things they stand for; their hands are not certainly entirely clean but neither is Interview. Nothing is.  
+**KW** Also, one of those things is seeing what people do within their role as they get promoted. I think a good example is art directors who will or will not advocate for their illustrators to be paid more for a spot or internally pushing on things like that. I think there is so much grey area; in the last couple weeks, one of the things a bunch of us were all talking about is the morality of working for Bloomberg Businessweek versus working for the Bloomberg presidential campaign. <span class="contentNote">(3)</span> I think the presidential campaign is clearly worse than working for Bloomberg Businessweek. You could get into the politics of that publication and the things they stand for; their hands are not certainly entirely clean but neither is Interview. <span class="contentNote">(4)</span> Nothing is.  
 
 <br/>
 
@@ -78,7 +147,7 @@ notes:
 
 <br/>
 
-**KW** You can just get thousands of dollars to do your esoteric poster project or get funding from RISO France—they’ll give you 30 thousand dollars worth of materials to print your comics. It’s hard if you’re a publisher here to be like, “I just can’t do that. I have to maybe work in one or two colors; I can’t just work in 20 colors per sheet.”  
+**KW** You can just get thousands of dollars to do your esoteric poster project or get funding from [RISO France](http://www.risofrance.fr/accueil.html)—they’ll give you 30 thousand dollars worth of materials to print your comics. It’s hard if you’re a publisher here to be like, “I just can’t do that. I have to maybe work in one or two colors; I can’t just work in 20 colors per sheet.”  
 
 <br/>
 
@@ -126,7 +195,7 @@ Hit that invert, hit that grain. It’s not a dig! But those people know how to 
 
 <br/>
 
-**RB** That’s partially what drew us to it. I remember the first time going to the New York Art Book Fair and seeing people really going for it, making things that were really genuinely exciting. At that point in my education, I was like, “This rules!” I thought it would be so far beyond that I could sell or produce those books, that I could be behind that table. The trick to be involved in the community is just to put yourself in it. It’s really great, it’s really collaborative. People help each other out.  
+**RB** That’s partially what drew us to it. I remember the first time going to the [New York Art Book Fair](https://printedmatterartbookfairs.org/) and seeing people really going for it, making things that were really genuinely exciting. At that point in my education, I was like, “This rules!” I thought it would be so far beyond that I could sell or produce those books, that I could be behind that table. The trick to be involved in the community is just to put yourself in it. It’s really great, it’s really collaborative. People help each other out.  
 
 <br/>
 
@@ -162,7 +231,7 @@ A lot of stuff getting produced doesn't last that long. Things aren’t very arc
 
 <br/>
 
-**LH** I was reading about the Detroit Printing Co-op recently. Their whole operation revolved around one Harris offset press; everything had to be made through a single tool. On the TXTBooks site, you talk about resolving publications through Riso.  
+**LH** I was reading about the [Detroit Printing Co-op](https://walkerart.org/magazine/all-printing-is-political-fredy-perlman-and-the-detroit-printing-co-op) recently. <span class="contentNote">(5)</span> Their whole operation revolved around one Harris offset press; everything had to be made through a single tool. On the TXTBooks site, you talk about resolving publications through Riso.  
 
 <br/>
 
@@ -238,8 +307,8 @@ One thing that’s nice is that we have a bunch of friends who teach at other in
 
 <br/>
 
-**KW** Two books come to mind. One is called “Extracurricular,” it was published by Platform. That book is really great, it talks a bunch about different non-institutional graphic design learning models—people who are working now as well as historical studies. Another great book is “Training for Exploitation” by the Precarious Workers Brigade which is affiliated with this graphic design and arts organizing project in the UK called “Evening Class.” That book is really cool, it talks about the conditions of the contemporary workplace.  
+**KW** Two books come to mind. One is called “[Extracurricular](http://extra-curricular.org/),” it was published by [Platform](http://platplatformform.com/). <span class="contentNote">(6)</span> That book is really great, it talks a bunch about different non-institutional graphic design learning models—people who are working now as well as historical studies. Another great book is “[Training for Exploitation](https://www.joaap.org/press/trainingforexploitation.htm)” by the [Precarious Workers Brigade](https://precariousworkersbrigade.tumblr.com/) <span class="contentNote">(7)</span> which is affiliated with this graphic design and arts organizing project in the UK called “[Evening Class](https://evening-class.org/).” <span class="contentNote">(8)</span> That book is really cool, it talks about the conditions of the contemporary workplace.  
 
 <br/>
 
-**RB** There’s a resurgence of alternative teaching spaces which is really exciting. SSHH runs a really wide range of classes. My friend Olivia works at this space XXXI which does a similar thing with introduction to coding and photo clubs. You don’t necessarily need to have an admission and commit to four years to learn something. The interest in workshops is really interesting and short run classes of continued learning—it makes me happy!
+**RB** There’s a resurgence of alternative teaching spaces which is really exciting. [SSHH](https://sshh.nyc/) <span class="contentNote">(9)</span> runs a really wide range of classes. My friend Olivia works at this space [XXXI](https://www.xxxi.nyc/) <span class="contentNote">(10)</span> which does a similar thing with introduction to coding and photo clubs. You don’t necessarily need to have an admission and commit to four years to learn something. The interest in workshops is really interesting and short run classes of continued learning—it makes me happy!
