@@ -5,7 +5,7 @@ title: Rob Blair + Kurt Woerpel
 subhead: 'On Publishing, Teaching, and Balance'
 notes:
   - desc: >-
-      From the TXTBooks website: "TXTbooks is an artist-run independent
+      From the TXTBooks website!!!: "TXTbooks is an artist-run independent
       publishing initiative in Brooklyn, NY.
 
 

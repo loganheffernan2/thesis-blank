@@ -36,3 +36,23 @@ exports.createPages = async ({actions, graphql, reporter}) => {
     })
   })
 };
+
+exports.onCreateNode = ({
+  node,
+  getNode,
+  loadNodeContent,
+  boundActionCreators,
+}) => {
+  const { frontmatter } = node
+  if (frontmatter) {
+    const { image } = frontmatter
+    if (image) {
+      if (image.indexOf('/img') === 0) {
+        frontmatter.image = path.relative(
+          path.dirname(node.fileAbsolutePath),
+          path.join(__dirname, '/static/', image)
+        )
+      }
+    }
+  }
+}
