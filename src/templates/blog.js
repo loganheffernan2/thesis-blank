@@ -12,7 +12,7 @@ export default function Template({
   const { frontmatter, html } = markdownRemark
   
   return (
-    <div id="postWrap">
+    <div id="postWrap"> 
       <div id="vertDiv"></div>
       <Header title={frontmatter.title} date={frontmatter.date}/>
       <div id="postContent">
