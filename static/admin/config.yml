@@ -2,8 +2,8 @@ backend:
   name: github
   repo: loganheffernan2/thesis-blank
   
-media_folder: static/assets
-public_folder: /assets
+media_folder: "static/assets"
+public_folder: "/assets"
   
 collections:
   - name: blog
