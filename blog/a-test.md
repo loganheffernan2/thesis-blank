@@ -24,47 +24,47 @@ notes:
       ¶ Founded in 2014, TXTbooks is currently maintained by Robert Blair,
       Thomas Colligan, Nichole Shinn, Rose Wong, and Kurt Woerpel."
     image: assets/txtbooks.png
-    number: '1'
     link: 'https://www.youtube.com/watch?v=vIbRuNdrn6k'
-    linktitle: 'TXTbooks'
+    linktitle: TXTbooks
+    number: '1'
   - desc: >-
       New York City's cost of living stands at 187.2% that of the national
       average.
     image: ''
-    number: '2'
     link: ''
     linktitle: ''
+    number: '2'
   - desc: >-
       During the primaries for the United State's 2020 election cycle,
       Democratic candidate Michael Bloomberg hired high-traffic Instagram meme
       pages to generate promotional memes.
     image: ''
-    number: '3'
     link: ''
     linktitle: ''
+    number: '3'
   - desc: >-
       At the time of this interview, Kurt was working as art director for
       Interview Magazine.
     image: assets/interview.png
-    number: '4'
     link: ''
     linktitle: ''
+    number: '4'
   - desc: >-
       From 1969 to 1985, Michigan's Detroit Printing Co-op exemplifies the
       counter-capital potential of publishing. The co-op, operated as a
       worker-owned workshop, produced radical leftist materials with limited
       machinery.
     image: assets/dpc-bug.png
-    number: '5'
     link: ''
     linktitle: ''
+    number: '5'
   - desc: >-
       Platform is a Chicago-based graphic design studio with a publishing arm,
       Platform Editions.
     image: ''
-    number: '6'
     link: ''
     linktitle: ''
+    number: '6'
   - desc: >-
       From the Precarious Worker's Brigade website: "We are a UK-based group of
       precarious workers in culture & education. We call out in solidarity with
@@ -76,9 +76,9 @@ notes:
       formats, practices, dispositions, knowledges and tools for making this
       happen."
     image: ''
-    number: '7'
     link: ''
     linktitle: ''
+    number: '7'
   - desc: >-
       From the Evening Class website: Evening Class is an experiment in
       self-organised education that has been active since January 2016. It's a
@@ -93,29 +93,29 @@ notes:
       practice, often working in collaboration with other like-minded
       organisations and individuals."
     image: ''
-    number: '8'
     link: ''
     linktitle: ''
+    number: '8'
   - desc: >-
       From the SSHH website: "Sixth Street Haunted House is a new multi-purpose
       mutant space where you can come and learn, make, buy or share something.
       We opened on October 31st, 2018. SSHH is run by Bráulio Amado and Nick
       Schiarizzi."
     image: ''
-    number: '9'
     link: ''
     linktitle: ''
+    number: '9'
   - desc: >-
       From the XXXI website: "XXXI (‘Thirty-One’) is a mixed-use community space
       for designers (and others) to exhibit, teach, and discuss self-initiated
       work; a shared studio space; a residency for designers; and an online (and
       sometimes physical) store."
     image: ''
-    number: '10'
     link: ''
     linktitle: ''
+    number: '10'
 ---
-**Rob Blair** My name is Robert Blair. I’m currently a visiting instructor at Pratt Institute. Me and Kurt graduated in 2014 from Pratt. In addition to that, we are both practicing freelance designers and art directors. We run a publishing project called TXTBooks that started immediately after we graduated. A lot of my personal practice is photo-based and image-based as well as TXTbooks <span class="contentNote">(1)</span> being an output for my own personal non-commercial practice.  
+**Rob Blair** My name is Robert Blair. I’m currently a visiting instructor at Pratt Institute. Me and Kurt graduated in 2014 from Pratt. In addition to that, we are both practicing freelance designers and art directors. We run a publishing project called TXTBooks that started immediately after we graduated. A lot of my personal practice is photo-based and image-based as well as TXTbooks <span class="contentNote">(1)</span> being an output for my own personal non-commercial practice. 
 
 <br/>
 
