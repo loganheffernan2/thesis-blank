@@ -154,6 +154,61 @@ notes:
     link: 'https://www.youtube.com/watch?v=CpTNNpRBi-A&feature=youtu.be'
     linktitle: Video
     number: '23'
+  - desc: >-
+      "Parachute, the Bedding Brand, Reminds Us We're All Just Animals Who Want
+      to Snuggle"
+    link: >-
+      https://musebycl.io/advertising/parachute-bedding-brand-reminds-us-were-all-just-animals-who-want-snuggle
+    linktitle: Article
+    number: '24'
+  - desc: >-
+      "Using the designing and building of the Clock of the Long Now as a
+      framework, this is a book about the practical use of long time
+      perspective: how to get it, how to use it, how to keep it in and out of
+      sight. Here are the central questions it inspires: How do we make
+      long-term thinking automatic and common instead of difficult and rare?"
+    link: >-
+      https://books.google.com/books/about/The_Clock_Of_The_Long_Now.html?id=QnE4DgAAQBAJ&source=kp_book_description
+    linktitle: Google Books
+    number: '25'
+  - desc: >-
+      "Nudge is a concept in behavioral science, political theory and behavioral
+      economics which proposes positive reinforcement and indirect suggestions
+      as ways to influence the behavior and decision making of groups or
+      individuals. Nudging contrasts with other ways to achieve compliance, such
+      as education, legislation or enforcement."
+    link: 'https://en.wikipedia.org/wiki/Nudge_theory'
+    linktitle: Wikipedia
+    number: '26'
+  - desc: A modified approach to canvassing.
+    link: 'https://www.instagram.com/p/B9h5GyzhQ9l/'
+    linktitle: Instagram
+    number: '27'
+  - desc: >-
+      "I’m committing $10 billion to start and will begin issuing grants this
+      summer. Earth is the one thing we all have in common — let’s protect it,
+      together.⁣⁣⁣"
+    link: 'https://www.instagram.com/p/B8rWKFnnQ5c/'
+    linktitle: Instagram
+    number: '28'
+  - desc: >-
+      "Laurel Schwulst is a designer, writer, and webmaster living in New York. 
+      She teaches at Yale, Princeton, Rutgers, and independently through
+      Fruitful School, a collaborative web workshop. Recent courses taught
+      include "Writing as Metadata," "Special Web Projects," and "Image."  She
+      operates a design practice, Beautiful Company, which works with clients on
+      utilizing the unique materiality of the web. Most recently, she designed
+      Artists Space's new website, which through multiple entrances allows
+      generous traversal through its growing, rich archive. A favorite ongoing
+      collaboration is Left Gallery, an online gallery selling files in
+      editions."
+    link: 'http://laurelschwulst.com/'
+    linktitle: Website
+    number: '29'
+  - desc: Metahaven is a Dutch design firm using graphic design to talk about power.
+    link: 'http://metahaven.net/'
+    linktitle: Website
+    number: '30'
 ---
 **Sally Thurer** I’m Sally. I teach at Pratt. I also teach at other schools; this semester I’m teaching at NYU. This is my fifth time teaching the same class at NYU, which is a really different experience than Pratt; it's an introductory foundation class based on the Bauhaus—I don’t teach anything like that at Pratt. I have an illustration practice, which is pretty regular. It’s mostly editorial. I’m doing a branding project, which is very illustrative. What else am I working on? I just got a grant to try to finish my Body Bottle <span class="contentNote">(1)</span> thing or try to get it into a more reasonable form. I’ve been trying to wrap that up for a number of years.
 
@@ -228,7 +283,7 @@ I get enormously frustrated by “woke” marketing, which I think comes out of 
 
 A lot of the Silicon Valley branding—I think I probably gave you guys a reading, I just gave it to my seniors—uses baby-talk and cartoons to sell itself. <span class="contentNote">(21)</span> It’s infantilizing. It’s really about not treating people like adults who can take care of themselves and making them dependent on these apps and services in order to even eat dinner, you know? That branding is dark because it’s promoting a certain powerless-ness, a dependence. It’s celebrating it.
 
-I think it’s possible to just make coffee look delicious. In a very fundamental way, a lot of the work I’ve done in my career is about, “How do we make the coffee look delicious?” I would love to see more advertising like that. I miss advertising that really works. I constantly go back to Coca-Cola ads—Diet Coke, particularly. Coca-Cola will make ads where the Coke looks delicious <span class="contentNote">(22)</span>; it's splashing all around, and there are bubbles everywhere <span class="contentNote">(23)</span>, and there are beautiful young teens on roller skates at sunset. And I’m like, “I want to be a beautiful young teen drinking Coke on the beach!” It’s working in a really visual way, a really fantasy-like and imaginative way. (The Parachute[hibernating campaign](https://musebycl.io/advertising/parachute-bedding-brand-reminds-us-were-all-just-animals-who-want-snuggle)is also perfect.) I hate the Casper mattress ads that are like, “I’m Dracula on a mattress!” I don’t think they’re funny, I don’t laugh at them, and I don’t think they sell mattresses. This goes back to what I was saying about conceptual art vs. form. It must be easier for agencies to sell these stupid punchlines to clients because they’re easier to pitch than formal approaches.
+I think it’s possible to just make coffee look delicious. In a very fundamental way, a lot of the work I’ve done in my career is about, “How do we make the coffee look delicious?” I would love to see more advertising like that. I miss advertising that really works. I constantly go back to Coca-Cola ads—Diet Coke, particularly. Coca-Cola will make ads where the Coke looks delicious <span class="contentNote">(22)</span>; it's splashing all around, and there are bubbles everywhere <span class="contentNote">(23)</span>, and there are beautiful young teens on roller skates at sunset. And I’m like, “I want to be a beautiful young teen drinking Coke on the beach!” It’s working in a really visual way, a really fantasy-like and imaginative way. (The Parachute hibernating campaigns are also perfect. <span class="contentNote">(24)</span>) I hate the Casper mattress ads that are like, “I’m Dracula on a mattress!” I don’t think they’re funny, I don’t laugh at them, and I don’t think they sell mattresses. This goes back to what I was saying about conceptual art vs. form. It must be easier for agencies to sell these stupid punchlines to clients because they’re easier to pitch than formal approaches.
 
 The Wing is more evil than Casper though, because it’s a wolf in sheep's clothing—using design to repackage careerism as feminism.
 
@@ -244,9 +299,9 @@ Designers think it’s cool to say graphic design isn’t important because, in 
 
 But there are aspects of design that I think are very important—like style, visual presentation and methodology. I wouldn’t be teaching design if I didn’t think it was worth studying!
 
-Style is important because it communicates certain attitudes visually. Sociopolitical ideas tend to work themselves out in the arena of fashion and style before they bubble up to mainstream culture. Stewart Brand has a theory about this called Pace Layers in his book,The Clock of The Long Now.I don’t buy into it entirely but his observations about fashion feel right, and it’s an interesting model to think and talk about. (Pirco put me on to this!) The semiotics of style might possibly be my favorite subject.
+Style is important because it communicates certain attitudes visually. Sociopolitical ideas tend to work themselves out in the arena of fashion and style before they bubble up to mainstream culture. Stewart Brand has a theory about this called Pace Layers in his book, The Clock of The Long Now. <span class="contentNote">(25)</span> I don’t buy into it entirely but his observations about fashion feel right, and it’s an interesting model to think and talk about. (Pirco \[Wolfframm] put me on to this!) The semiotics of style might possibly be my favorite subject.
 
-Visual presentation—I’m not sure what else to call it, maybe thefunctional mechanicsof design—are consequential because they shape the whole experience. This is where[nudge theory](https://en.wikipedia.org/wiki/Nudge_theory)comes into play, with the designers encouraging cafeteria customers to eat apples instead of chips by placing them at eye level. I often think of this in terms of labor—doing work so the user won’t have to. These approaches are generous, but manipulative. Maybe the user will resent not knowing chips were an option that they didn’t see. This aspect of design—and I think it applies to all areas of design—is enormously consequential. The ethics should be considered on a case-by-case basis.
+Visual presentation—I’m not sure what else to call it, maybe thefunctional mechanicsof design—are consequential because they shape the whole experience. This is where nudge theory comes into play <span class="contentNote">(26)</span>, with the designers encouraging cafeteria customers to eat apples instead of chips by placing them at eye level. I often think of this in terms of labor—doing work so the user won’t have to. These approaches are generous, but manipulative. Maybe the user will resent not knowing chips were an option that they didn’t see. This aspect of design—and I think it applies to all areas of design—is enormously consequential. The ethics should be considered on a case-by-case basis.
 
 Methodologies are consequential because they are built on certain attitudes and assumptions. For instance,auteur theory(this is a film thing) posits that the director is the author of the movie and should exert personal influence over their collaborators in order to realize their artistic vision. The project is highly controlled by one person. Design Thinking devalues that sort of subjectivity completely. That methodology is built on the cult of the amateur—a belief that designers with experience, skill and expertise have been indoctrinated into a cult of repetitive best practices (or worse—artistic self indulgence) and need to turn outside the field for ideas. It recasts designers as managers, market researchers and user testers. These are wildly different approaches built on wildly different values that produce wildly different kinds of results.
 
@@ -258,11 +313,11 @@ Methodologies are consequential because they are built on certain attitudes and 
 
 **ST** I’ve been bouncing around with this ‘virtue signaling’ stuff. I’m not a fan of virtue signaling, it tends to annoy me, but it also feels impossible to avoid. I’m sure if you googled me it wouldn't be hard to find an example. That said, I don’t see anything wrong with making work because you care about something. I recently had this moment with the Bernie campaign where I didn’t want to make Bernie merch because I wanted to do something that would really get Bernie elected, and I didn’t think the merch would get him elected—it seemed like a self-promo piggybacking on Bernie. I’ve been phonebanking, but at a certain point, the graphic designer in me started making merch because that’s just what I do, and I have the tools.
 
-I made this “Boomers for Bernie” sticker and have been contacting boomers on Facebook and having them sign up to get a free sticker. In doing that, I’ve been asking them, “How are you going to get to the polls? Do you have a plan?” I’ve been doing the same stuff that you do while canvassing but using this merch that I made to forge a connection. What I was thinking is that it’s making a similar impact as if I was phone banking for Bernie, but I’m using my own skill to maybe personalize it. What else can I do? I can’t single-handedly get Bernie elected. I haven’t succeeded in that. Is this virtue signaling? I don’t know. I really want Bernie to be the president!
+I made this “Boomers for Bernie” sticker <span class="contentNote">(27)</span> and have been contacting boomers on Facebook and having them sign up to get a free sticker. In doing that, I’ve been asking them, “How are you going to get to the polls? Do you have a plan?” I’ve been doing the same stuff that you do while canvassing but using this merch that I made to forge a connection. What I was thinking is that it’s making a similar impact as if I was phone banking for Bernie, but I’m using my own skill to maybe personalize it. What else can I do? I can’t single-handedly get Bernie elected. I haven’t succeeded in that. Is this virtue signaling? I don’t know. I really want Bernie to be the president!
 
 I don’t think people should be so hard on themselves for virtue signaling, but there’s a certain category of people who don’t get it—like people who say, “I don’t wear logos.” That’s so annoying. A lot of times it’s corporations that are doing it, and you’re like, “You don’t care!” Corporations aren’t people.
 
-**LH** It’s like Jeff Bezos pledging a bunch of money to combating climate change recently. That doesn’t suddenly make Amazon a company with ethical practices.
+**LH** It’s like Jeff Bezos pledging a bunch of money to combating climate change recently. <span class="contentNote">(28)</span> That doesn’t suddenly make Amazon a company with ethical practices.
 
 **ST** Yeah, he should just be taxed. He should just have to pay that to us in tax, and we should decide where that money goes. He’s not a good person for demanding tax breaks and then giving money to some charity that he selects.
 
@@ -272,11 +327,11 @@ I don’t think people should be so hard on themselves for virtue signaling, but
 
 **LH** We want graphic design to be the answer to everything because it’s what we’re most comfortable with, but it’s only the answer to a select field of problems. Making a t-shirt isn’t phone banking.
 
-**ST** This is happening a lot in thesis—people are encouraged to take on these huge issues, like food deserts in cities or the pollution of the fashion industry. They’re taking on these huge almost-unsolvable problems and then they’re like, “I’m going to make a campaign to raise awareness about this issue.” There are so many interesting ways design can be used, but I also want them to think about—functionally—if they wanted to solve this problem what would they do? In senior project last year, one of the assignments I gave was to create a gift for a specific person. That’s a very Laurel Schwulst-derivative project, but the idea is that if you’re making something for a specific person, it makes a really focused brief. You wonder, “Have I delighted the other person?” It takes design out of the world of typefaces and grids traditional tools. It starts being about, “How do I accomplish this task using my communication skills?”
+**ST** This is happening a lot in thesis—people are encouraged to take on these huge issues, like food deserts in cities or the pollution of the fashion industry. They’re taking on these huge almost-unsolvable problems and then they’re like, “I’m going to make a campaign to raise awareness about this issue.” There are so many interesting ways design can be used, but I also want them to think about—functionally—if they wanted to solve this problem what would they do? In senior project last year, one of the assignments I gave was to create a gift for a specific person. That’s a very Laurel Schwulst-derivative project <span class="contentNote">(29)</span>, but the idea is that if you’re making something for a specific person, it makes a really focused brief. You wonder, “Have I delighted the other person?” It takes design out of the world of typefaces and grids traditional tools. It starts being about, “How do I accomplish this task using my communication skills?”
 
 I think there are a lot of problems that we can address using these communication skills, but the idea of making a zine or making a t-shirt is often not the solution. Thinking about creating ‘happenings’ or using these tools in a larger context opens up possibilities. I think a happening could have a lot of impact. A rally is a happening; how do you design a rally to really elect Bernie? You can imagine a not-very successful rally and a very successful rally? I think a lot of those moves are design moves. How do you design the space? How do you design the stage? Is there merch? Is it for sale, or is it given away for free? What does it look like? What do you talk about? Is there a song you sing? All of these things, these are all design things.
 
-**LH** I find it important to deeply consider, “How counter-capital and how countercultural can design be?” Especially in this country, there’s the constraint that we don’t have the same government funding that other nations do. If you look at Metahaven, they’re operational because they can get grants for making all of their work. There’s something specifically American about how difficult it is to distance yourself from work where the end-point is amassing capital. When we study design and consider the ways different practices operate, we don’t necessarily take into account the privilege behind a lot of them when it comes to funding. It would be much harder to have a US-based Metahaven than for the studio to operate as it does today in the Netherlands.\
+**LH** I find it important to deeply consider, “How counter-capital and how countercultural can design be?” Especially in this country, there’s the constraint that we don’t have the same government funding that other nations do. If you look at Metahaven <span class="contentNote">(30)</span>, they’re operational because they can get grants for making all of their work. There’s something specifically American about how difficult it is to distance yourself from work where the end-point is amassing capital. When we study design and consider the ways different practices operate, we don’t necessarily take into account the privilege behind a lot of them when it comes to funding. It would be much harder to have a US-based Metahaven than for the studio to operate as it does today in the Netherlands.\
 \
 **ST** There are a couple things at play. National funding for the arts is one of the things, that’s a great thing. I’m not sure how much expertise I have to talk about this,but I can talk about the nature of late capitalism and the online economy and how it’s really changed a lot of the models for these sorts of things. Everything has become extremely competitive and atomized now; it’s about how many likes you have on Instagram, which really disrupted a lot.
 
