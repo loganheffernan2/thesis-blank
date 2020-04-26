@@ -1,5 +1,4 @@
 import React from "react"
-import { BrowserRouter } from 'react-router-dom';
 import { graphql } from "gatsby"
 import Header from '../components/Header'
 import Footer from '../components/Footer'
@@ -15,9 +14,7 @@ export default function Template({
   return (
     <div id="postWrap">
       <div id="vertDiv"></div>
-      <BrowserRouter>
       <Header title={frontmatter.title} date={frontmatter.date}/>
-      </BrowserRouter>
       <div id="postContent">
       <span class="headerBumper"></span>
       <div class="titleDiv"></div>
