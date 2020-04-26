@@ -55,24 +55,74 @@ notes:
     link: ''
     linktitle: ''
     number: '8'
-  - desc: >-
-      From the SSHH website: "Sixth Street Haunted House is a new multi-purpose
-      mutant space where you can come and learn, make, buy or share something.
-      We opened on October 31st, 2018. SSHH is run by Bráulio Amado and Nick
-      Schiarizzi."
+  - desc: ' Lisa Gitelman: Paper Knowledge'
     image: ''
-    link: ''
-    linktitle: ''
+    link: 'https://www.dukeupress.edu/paper-knowledge'
+    linktitle: Duke University Press
     number: '9'
-  - desc: >-
-      From the XXXI website: "XXXI (‘Thirty-One’) is a mixed-use community space
-      for designers (and others) to exhibit, teach, and discuss self-initiated
-      work; a shared studio space; a residency for designers; and an online (and
-      sometimes physical) store."
+  - desc: 'David Graeber: Debt - The First 5,000 Years'
     image: ''
-    link: ''
-    linktitle: ''
+    link: 'https://libcom.org/files/__Debt__The_First_5_000_Years.pdf'
+    linktitle: PDF
     number: '10'
+  - desc: British Imperial Ordnance Society
+    link: 'https://en.wikipedia.org/wiki/Ordnance_Survey#Origins'
+    linktitle: Wiki
+    number: '11'
+  - desc: >-
+      "Turtle Island is a name for the Earth or for North America, used by many
+      Native Americans and First Nations people and by Indigenous rights
+      activists. The name is based on a common Native American creation myth."
+    link: 'https://en.wikipedia.org/wiki/Turtle_Island_(Native_American_folklore)'
+    linktitle: Wiki
+    number: '12'
+  - desc: Meggs' History of Graphic Design
+    link: 'http://online.anyflip.com/xetl/kqgu/mobile/index.html'
+    linktitle: Interactive Textbook
+    number: '13'
+  - desc: >-
+      "Mon (紋), also monshō (紋章), mondokoro (紋所), and kamon (家紋), are Japanese
+      emblems used to decorate and identify an individual, a family, or (more
+      recently) an institution or business entity."
+    link: 'https://en.wikipedia.org/wiki/Mon_(emblem)'
+    linktitle: Wiki
+    number: '14'
+  - desc: History of printing in East Asia
+    link: 'https://en.wikipedia.org/wiki/History_of_printing_in_East_Asia'
+    linktitle: Wiki
+    number: '15'
+  - desc: Gutenberg's press
+    link: 'https://en.wikipedia.org/wiki/Printing_press#Gutenberg''s_press'
+    linktitle: Wiki
+    number: '16'
+  - desc: Dutch East Indies
+    link: 'https://en.wikipedia.org/wiki/Dutch_East_Indies'
+    linktitle: Wiki
+    number: '17'
+  - desc: >-
+      "The Diamond Sūtra is one of the most influential Mahāyāna scriptures in
+      East Asia. Thanks to the colophon – the short dedication note written at
+      the end, after the sacred Buddhist text – we have quite a lot of
+      information about the context surrounding the commissioning of this
+      particular copy. The few characters translate as follows: ‘On the 15th day
+      of the 4th month of the 9th year of the Xiantong reign period, Wang Jie
+      had this made for universal distribution on behalf of his two parents.’ We
+      therefore know the precise date the scroll was made (11 May 868), who
+      financed it, on behalf of whom and for what purpose."
+    link: 'https://www.bl.uk/collection-items/the-diamond-sutra'
+    linktitle: British Library
+    number: '18'
+  - desc: >-
+      "Extra-curricular is a reader of collected texts about self-organized
+      learning, experiments, and alternatives in art and design education.
+      Occurring both within and separate from existing institutions, these new
+      forms of learning and organization question how learning takes place, for
+      whom, and the ideologies inherent in existing models, among many other
+      things. An (admittedly) incomplete inventory, this book aims to serve as a
+      starting point for further discussion and experimentation."
+    link: 'http://extra-curricular.org/'
+    linktitle: Extracurricular
+    number: '19'
 ---
 **CL** I did graphic design in undergrad and then worked for a couple years. I sort of came to a similar realization with regards to the alienating nature of design labor, primarily due to the fact that it is a service profession. I was working in editorial and in magazines. For a variety of reasons, I lost the sense of connection with it. So I applied to grad school and got into a school called the Sandberg Institut <span class="contentNote">(1)</span> in Amsterdam. The thing that attracted me to that program was, one, that the tuition was 2,400 Euros for international students at the time. I think it's like 8,000 now, but it was cheaper than my undergraduate tuition. I went to school in Canada for my undergrad. That’s cheaper than the US, and Europe was even cheaper than that. The other thing was that the program, to my understanding, had a fairly explicit political orientation. In one way or another, that was something that I thought I was interested in. I didn’t have the language for it at that time. I feel like your generation is so much savvier than my own generation was 10 or 15 years ago. You guys are, it’s really remarkable. I just downloaded TikTok. I don’t know if its their algorithms or if the algorithms are trying to troll me or something, but I’m getting a lot of Trump stuff, a lot of young or tween pro-Trump stuff. Is this the algorithms or is this actually what’s out there now? It seems like people are more politically charged.
 
