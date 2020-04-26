@@ -1,4 +1,5 @@
 import React from "react"
+import { BrowserRouter } from 'react-router-dom';
 import { graphql } from "gatsby"
 import Header from '../components/Header'
 import Footer from '../components/Footer'
@@ -12,14 +13,18 @@ export default function Template({
   const { frontmatter, html } = markdownRemark
   
   return (
-    <div id="postWrap"> 
+    <div id="postWrap">
       <div id="vertDiv"></div>
+      <BrowserRouter>
       <Header title={frontmatter.title} date={frontmatter.date}/>
+      </BrowserRouter>
       <div id="postContent">
       <span class="headerBumper"></span>
+      <div class="titleDiv"></div>
       <div id="artSum">{frontmatter.subhead}</div>
       <div class="titleDiv"></div>
         <div
+          id="textContent"
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: html }}
         />
@@ -31,15 +36,17 @@ export default function Template({
         return (
           <li key={notes.number}>
             <div class="titleDiv"></div>
+            <span class="noteTop">
             <span class="noteNumb">{notes.number}</span>
-            <span class="noteDesc">{notes.desc}</span>
+            <span class="noteDesc">{notes.desc} <a class="noteLink" href={notes.link}>{notes.linktitle}</a></span>
+            </span>
             <img src={notes.image} alt=""></img>
             </li>
         )
         }
         )}
       </div>
-      <Footer />
+      <Footer /> 
     </div>
   )
 }
@@ -53,7 +60,7 @@ export const pageQuery = graphql`
         path
         title
         subhead
-        notes {number, desc, image}
+        notes {number, desc, linktitle, link, image}
 
       }
     }

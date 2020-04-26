@@ -1,5 +1,6 @@
 import React from 'react'
 import { Component } from 'react'
+import { Link } from 'react-router-dom'
 import '../css/header.css'
 import '../css/global.css'
 
@@ -8,8 +9,8 @@ class Header extends Component {
         return (
             <React.Fragment>
             <ul id="headerWrap">
-                <li>Home</li>
                 <li>{this.props.title}</li>
+                <li><Link to="/" onClick={this.forceUpdate} style={{ color: 'inherit', textDecoration: 'inherit'}}>Where Are We?</Link></li>
                 <li>{this.props.date}</li>
             </ul>
             </React.Fragment>

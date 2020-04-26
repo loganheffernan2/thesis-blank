@@ -8,7 +8,7 @@
     position: relative;
     display: block;
     width: 100%;
-    height: 5vh;}
+    height: 7.5vh;}
 
 #postWrap {
     position: absolute;
@@ -22,8 +22,7 @@
     top: 0;
     width: 1px;
     height: 100%;
-    left: 60%;
-    background-color: blue;}
+    left: 60%;}
 
 #postContent {
     position: relative;
@@ -32,23 +31,29 @@
     top: 0; margin-top: 0;
     display: inline-block;
     width: 60%;
-    height: auto%;
+    height: auto;
     text-align: left;
     padding-left: 2.5%;
-    padding-right: 2.5%;
-    padding-bottom: 2.5%;}
+    padding-right: 2.5%;}
+
+#textContent {
+    position: relative;
+    display: block;
+    margin-top: 2.5vh;
+    margin-bottom: 2.5vh;}
 
 #artSum {
     font-family: "Ortica";
     font-size: 24pt;
-    line-height: 120%;}
+    line-height: 120%;
+    margin-top: 2.5vh;
+    margin-bottom: 2.5vh;}
 
 .titleDiv {
     width:100%;
     height: 1px;
-    background-color: blue;
-    margin-top: 2.5%;
-    margin-bottom: 2.5%;}
+    top: 0;
+    background-color: lightgray;}
 
 #postContent:not(#artsum) {
     font-family: Arial, Helvetica, sans-serif;
@@ -74,7 +79,8 @@
 #postNotes img {
     position: relative;
     display: block;
-    width: 100%;}
+    width: 100%;
+    margin-bottom: 2.5vh;}
 
 .noteNumb {
     position: relative;
@@ -83,18 +89,31 @@
     width: 100%;
     color: blue;}
 
-.noteDesc {
+.noteTop {
+    position: relative;
+    display: block;
+    margin-top: 2.5vh;}
+
+.noteDesc,.noteLink {
     position: relative;
     float: left;
     display: inline-block;
     width: 100%;
     padding-bottom: 2.5%;}
 
+.noteLink {
+    text-decoration: none;
+    color: blue;}
+
 .contentNote {
     color: blue;}
 
 li {
-    list-style-type: none;}
+    list-style-type: none;
+    top: 0;}
+
+#vertDiv {
+    background-color: orange;}
 
     @media (min-aspect-ratio: 1/1) {
     
@@ -102,6 +121,10 @@ li {
             font-size: 36pt;}
         .noteNumb {
             width: 10%;}
-        .noteDesc {
+        .noteDesc,.noteLink {
             width: 90%;}
+        #postContent p:not(#artsum) {
+            padding-left: 15vw;}
+        .noteDesc {
+            padding-right: 15vw;}
     }
