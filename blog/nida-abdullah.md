@@ -13,6 +13,198 @@ notes:
       https://walkerart.org/magazine/jacob-lindgren-graphic-designs-factory-settings
     linktitle: Graphic Design's Factory Settings
     number: '1'
+  - desc: Megg's History of Graphic Design
+    link: 'http://online.anyflip.com/xetl/kqgu/mobile/index.html'
+    linktitle: Interactive Textbook
+    number: '2'
+  - desc: 'Johanna Drucker, Emily McVarish: Graphic Design History, A Critical Guide'
+    link: >-
+      https://www.pearson.com/us/higher-education/program/Drucker-Graphic-Design-History-2nd-Edition/PGM332826.html
+    linktitle: Pearson
+    number: '3'
+  - desc: >-
+      "Designer and Teacher, Ramon Tejada confronts and questions Design
+      History, and it's lack of representation (in the form of work, practices,
+      practitioners, and perspectives) of people of color and their narratives.
+      Looking at the current state of Design pedagogy and its development to
+      date, Tejada asks how we respond in a culture that is embedded in systems,
+      methods, and structures that colonize our thinking and making? How do we
+      address and question current design pedagogy and its historical
+      precedents?"
+    link: 'https://ramongd.com/Decolonizing-graphic-Design'
+    linktitle: Decolonizing Graphic Design
+    number: '4'
+  - desc: >-
+      "Martha Scotford is a book designer, and taught graphic design and design
+      history at North Carolina State University for 32 years. She has received
+      NEA grants for research on women in design, and was a Fulbright Lecturer
+      in India in 2001."
+    link: 'http://www.marthascotford.org/'
+    linktitle: Website
+    number: '5'
+  - desc: >-
+      "Much of the academic and professional discourse within the design
+      disciplines over the last century has been bereft of a critical reflection
+      on the politics of design practice, and on the politics of the artifacts,
+      systems and practices that designerly activity produces. Our premise is
+      that— notwithstanding important and valued exceptions—design theory,
+      practice, and pedagogy as a whole are not geared towards delivering the
+      kinds of knowledge and understanding that are adequate to addressing
+      longstanding systemic issues of power."
+    link: 'https://www.decolonisingdesign.com/'
+    linktitle: Website
+    number: '6'
+  - desc: >-
+      "Chris Lee is a graphic designer and educator based in Buffalo, and
+      Brooklyn, NY, and Toronto, ON. He has taught at the Dutch Art Institute,
+      OCADU, University at Buffalo SUNY, and is currently an assistant professor
+      in the Communications Design department at the Pratt Institute."
+    link: 'http://cairolexicon.com/'
+    linktitle: Website
+    number: '7'
+  - desc: >-
+      "Evening Class is an experiment in self-organised education that has been
+      active since January 2016. It's a space where we can cultivate common
+      interests, develop research and collectively decide the class’s programme.
+      Our programme takes the form of public workshops, talks and debates,
+      reading groups, radio broadcasting, performances, walks, and publishing. 
+      We currently operate through different working groups that feed their
+      research back into the collective. These working groups explore a range of
+      themes, like unionising design practices, post-capitalist desire and the
+      commons. Through these groups we work on developing a curriculum of both
+      theory and practice, often working in collaboration with other like-minded
+      organisations and individuals."
+    link: 'https://evening-class.org/'
+    linktitle: Website
+    number: '8'
+  - desc: >-
+      "In the book The Reader (2009), the design researcher Ramia Mazé suggests
+      three possible forms of criticality in design. The first has to do with a
+      critical attitude toward a designer’s own practice. The designer makes an
+      effort to be self-aware or reflexive about what he or she does and why.
+      Mazé argues that this can be understood as a kind of internal questioning
+      and a way of designers positioning themselves within their practice. The
+      second form is the “building of a meta-level or disciplinary discourse.”
+      This involves what Mazé calls, “criticality within a community of practice
+      or discipline,” and trying to challenge or change traditions and
+      paradigms. Designers are critical of their discipline while actively and
+      consciously working toward its expansion and evolution. In the third kind
+      of criticality, designers address pressing issues in society. The critique
+      is not targeted at a designer’s own discipline, practice or even at design
+      in general, but at social and political phenomena. In practice, the three
+      modes of criticality often overlap, intersect and influence each other."
+    link: >-
+      https://designobserver.com/feature/critical-graphic-design-critical-of-what/38416
+    linktitle: 'Critical Graphic Design: Critical of What?'
+    number: '9'
+  - desc: >-
+      "The obscure, virtually obsolete Japanese-made machine is computerized and
+      digital. But ink is applied in layers with drum rollers, through a
+      perforated master stencil. That provides a rich visual texture and organic
+      quality comparable to silkscreen printing. "
+    link: >-
+      https://ashevillemade.com/imagine-a-copy-machine-so-crummy-it-blows-up-into-a-beautiful-business/
+    linktitle: Imagine A Copy Machine So Crummy It Blows Up Into A Beautiful Business
+    number: '10'
+  - desc: >-
+      "The Werkplaats Typografie (WT), part of the ArtEZ University of the Arts,
+      is a two-year graphic design masters programme founded in 1998 by Karel
+      Martens and Wigger Bierma. The WT is centered on assignments and
+      self-initiated projects with lectures, seminars, meetings and readings
+      geared towards self-accountable and independently motivated work and
+      research."
+    link: 'https://www.werkplaatstypografie.org/'
+    linktitle: Website
+    number: '11'
+  - desc: >-
+      "As the postgraduate programme of the Gerrit Rietveld Academie Amsterdam,
+      the Sandberg Instituut offers Master Programmes in Fine Arts, Interior
+      Architecture and Design. The five Main Departments aim to deepen the
+      practices of artists, designers and critics. In addition, the Temporary
+      Programmes reflect on specific urgencies in society and the arts, and the
+      Hosted Programmes focus on collaboration with other institutes."
+    link: 'https://www.sandberg.nl/'
+    linktitle: Website
+    number: '12'
+  - desc: >-
+      "Pentagram is the world’s largest independently-owned design studio.  Our
+      work encompasses graphics and identity, architecture and interiors,
+      products and packaging, exhibitions and installations, websites and
+      digital experiences, advertising and communications. Our 25 partners are
+      all practicing designers, and whether they are working collaboratively or
+      independently, they always do so in friendship."
+    link: 'https://www.pentagram.com/'
+    linktitle: Website
+    number: '13'
+  - desc: >-
+      "In the 1950s, the Committee on Slum Clearance of the City of New York,
+      headed by Robert Moses, published twenty-six site-specific slum clearance
+      brochures. A major portion of each one of these brochures attempted to
+      demonstrate the blighted conditions that prevailed in the area to be
+      redeveloped. These sections included maps, statistics, descriptions, and
+      photographs. Moses wanted to keep the texts in the brochures short and
+      allow the photographs and the illustrations to demonstrate the
+      shortcomings of the areas designated as slums. This article analyzes the
+      photographs that appeared in the "Demonstration of Slum Conditions" (later
+      renamed to "Demonstration of Blight") section of the brochures and raises
+      a number of questions concerning the process and the paradigm under which
+      Moses's slum clearance organization was operating. Both the process and
+      the paradigm of slum clearance in New York City involved elected
+      officials, planning commissioners, and even the judiciary."
+    link: >-
+      https://www.researchgate.net/publication/270724751_Robert_Moses_and_the_Visual_Dimension_of_Physical_Disorder_Efforts_to_Demonstrate_Urban_Blight_in_the_Age_of_Slum_Clearance
+    linktitle: ResearchGate
+    number: '14'
+  - desc: >-
+      "The Myrtle Avenue Brooklyn Partnership fosters an inclusive vibrant
+      community anchored by Myrtle Avenue. We do this by engaging and supporting
+      our neighbors, cultivating partnerships, building community capacity,
+      identifying needs and providing services that connect our neighbors to
+      resources and opportunities."
+    link: 'https://myrtleavenue.org/about/myrtle-avenue-brooklyn-partnership/'
+    linktitle: Website
+    number: '15'
+  - desc: >-
+      "Founded in 1887, Pratt Institute is a global leader in higher education
+      dedicated to preparing its 4,875 undergraduate and graduate students for
+      successful careers in art, design, architecture, information and library
+      science, and liberal arts and sciences. Located in a cultural hub with
+      historic campuses in Brooklyn and Manhattan, as well as a campus in Utica,
+      New York (PrattMWP College of Art and Design), Pratt has an esteemed
+      faculty of accomplished professionals and scholars who challenge their
+      talented students to transform their passion into meaningful expression."
+    link: 'https://www.pratt.edu/the-institute/pratt-glance/'
+    linktitle: '"Pratt at a Glance"'
+    number: '16'
+  - desc: >-
+      "Pratt Institute has been selected to receive $890,000 from the New York
+      City Council for a new research facility at the Brooklyn Navy Yard. New
+      York City Council Majority Leader Laurie A. Cumbo announced the news on
+      June 25 at a press conference held at the Brooklyn Music School to
+      celebrate historic financial wins in this year’s city budget."
+    link: >-
+      https://www.pratt.edu/news/view/city-council-awards-pratt-890k-toward-creating-new-research-initiative-in-b
+    linktitle: 'Pratt: News'
+    number: '17'
+  - desc: >-
+      "The school operated using non-hierarchical methodologies that placed
+      students and educators on the same plane. Revolving around 20th-century
+      ideals about the value and importance of balancing education, art, and
+      cooperative labor, students were required to participate in farm work,
+      construction projects, and kitchen duty as part of their holistic
+      education. The students were involved at all levels of institutional
+      decision-making. They were also left in charge of deciding when they were
+      ready to graduate, which notoriously few ever did. There were no course
+      requirements, official grades (except for transfer purposes), or
+      accredited degrees. Graduates were presented with handcrafted diplomas as
+      purely ceremonial symbols of their achievement. The liberal arts program
+      offered at Black Mountain was broad, and supplemented by art making as a
+      means of cultivating creative thinking within all fields. While Albers led
+      the school, the only two requirements were a course on materials and form
+      taught by Albers and a course on Plato."
+    link: 'https://en.wikipedia.org/wiki/Black_Mountain_College#Structure'
+    linktitle: Wiki
+    number: '18'
 ---
 **Nida Abdullah** I’m Nida Abdullah. I’m an assistant professor at Pratt, so I’m full time. That means I’m on tenure track, there are a lot of different rules for educators at Pratt. That means I do a lot of service work, work on the curriculum. I worked as a designer in the world of making—I primarily worked in the cultural sector, so I worked for museums and things like that. I got into design research and then I became an educator. My focus in the past few years has been mostly on “What is design education? How do we teach? Why do we teach the way we do?” I think that a lot of it comes from these conventions and histories that we’ve inherited. Why do we do it this way? Why is the academic institution so rooted in its ways? That’s a lot of my practice now, so I carry that into Pratt—for good or bad, I guess.
 
@@ -38,13 +230,13 @@ In the classroom, I tend to bring that into the way I teach, as well. I hope tha
 
 **NA** Is it taught sequentially?
 
-**LH** It is. We used the Meggs textbook.
+**LH** It is. We used the Meggs textbook. <span class="contentNote">(2)</span>
 
-**NA** The Meggs textbook is really problematic, too. It’s a very Western approach. I can’t believe you use the Meggs textbook, it’s known to be a problematic textbook. Have you seen the Johanna Drucker textbook? You could even have a more expansive history, but it pairs things by ways of making. There are also other approaches and attempts to look at history from a different perspective. Do you know Ramon Tejada and his decolonizing, decentralizing work? It’s open-source, everyone piling things together. History is often by a certain person’s perspective. The problem with the Meggs textbook is it’s just, like, “Here are the popular designers. Here’s the stuff we already know.” Meggs leaves out so much stuff, it is, like, “Here’s the top five dudes, essentially.” You could also look into some articles—if you’re interested in the ethics of history—by Martha Scotford. She talks about how history, especially the Meggs textbook, is problematic.
+**NA** The Meggs textbook is really problematic, too. It’s a very Western approach. I can’t believe you use the Meggs textbook, it’s known to be a problematic textbook. Have you seen the Johanna Drucker textbook? <span class="contentNote">(3)</span> You could even have a more expansive history, but it pairs things by ways of making. There are also other approaches and attempts to look at history from a different perspective. Do you know Ramon Tejada and his decolonizing, decentralizing work? <span class="contentNote">(4)</span> It’s open-source, everyone piling things together. History is often by a certain person’s perspective. The problem with the Meggs textbook is it’s just, like, “Here are the popular designers. Here’s the stuff we already know.” Meggs leaves out so much stuff, it is, like, “Here’s the top five dudes, essentially.” You could also look into some articles—if you’re interested in the ethics of history—by Martha Scotford. <span class="contentNote">(5)</span> She talks about how history, especially the Meggs textbook, is problematic.
 
 **LH** As a sophomore, that was my first interaction with the history of the field. It was really potent in the way it structures your understanding and centralizes certain practices while “othering” everything else. Because it’s so linear and so championing of Western traditions, you end up seeing everything as culminating in this current moment of Western colonial design rather than seeing these all as studies within themselves. We see everything leading to our current moment that’s extremely white and in service to capitalism, but everything else is taken on its own, it's taken as a step along the way.
 
-**NA** There’s this idea from the “Decolonizing Design'' group—this one guy writes about how even the idea of graphic design is a modern construct. It’s like a modernist perspective because before modernity, design existed. We call everything “craft” that isn’t design in service to capitalism. Before that, it’s not “craft,” it was design. That’s something to think about, too. Why do we other everything else? Call it vernacular, call it craft. Why does everything that’s in our world, I guess, why do we qualify it as design?
+**NA** There’s this idea from the “Decolonising Design'' <span class="contentNote">(6)</span> group—this one guy writes about how even the idea of graphic design is a modern construct. It’s like a modernist perspective because before modernity, design existed. We call everything “craft” that isn’t design in service to capitalism. Before that, it’s not “craft,” it was design. That’s something to think about, too. Why do we other everything else? Call it vernacular, call it craft. Why does everything that’s in our world, I guess, why do we qualify it as design?
 
 **LH** The extent to which we can remove ourselves from industry is really held and cemented by the notion that design, as we currently understand it, came about as a service to industry, as a tool for the commercialization of everything, as a road to globalization. That helps situate where we’re at and at least pulls the curtain back and lets us understand that we’re inextricable from this larger conversation. I think it also begins to set the grounds for people who work in other ways. Looking at graphic design as more than its formal output, but instead looking at moments where radicals used tools of communication to push a point, push an agenda, build a community. That’s a use of graphic design, but it doesn’t make it into the textbooks or the course conversation the same way that WPA posters might.
 
@@ -56,17 +248,17 @@ In the classroom, I tend to bring that into the way I teach, as well. I hope tha
 
 **LH** A lot of students also come in with their references to graphic design being things that were handed to them from commercial spheres. You can look at someone’s mood board and it’s all film posters, clothing graphics, fashion campaigns. Not that beautiful imagery in these places is invalid or unimportant, but I wonder if teaching the history of, say, radical publishing would help better situate the ways design performs.
 
-**NA** If you’re not just producing the perfect portfolio and you suspend all of that, then you can challenge yourself. I think Chris said this, maybe he said it to you—he says that the job becomes a distraction from the real thing that you want to do or the job becomes a way for you to change. You want to get into the job, but it's not what you actually want to do. There’s the other stuff, and then the job is to support the other stuff or it’s the distraction from the other stuff. How do you get into the world and then produce critical work? It’s not the job that you actually want to do. That’s how I think about myself.
+**NA** If you’re not just producing the perfect portfolio and you suspend all of that, then you can challenge yourself. I think Chris <span class="contentNote">(7)</span> said this, maybe he said it to you—he says that the job becomes a distraction from the real thing that you want to do or the job becomes a way for you to change. You want to get into the job, but it's not what you actually want to do. There’s the other stuff, and then the job is to support the other stuff or it’s the distraction from the other stuff. How do you get into the world and then produce critical work? It’s not the job that you actually want to do. That’s how I think about myself.
 
 I didn’t want to work for IBM, I really didn’t. All of my work in school was all about revolution and critical change. In reflection, I didn’t realize it, but when I was actually in school, I didn’t recognize that that’s what I was doing. When I was working and hating it, you don’t really realize it—but I didn’t want to be a successful designer. Now that I’m an educator, I recognize that I work for this large institution, and I hate that, too. I think you produce the work on the side, but I don’t think our Pratt students necessarily see it that way.
 
-**LH** I was reading about Evening Class recently. It started as an alternative to a BFA or an MFA and then turned into, “Okay, how can we create a continuing education space that’s community oriented; maybe it’s open-source, maybe it’s non-hierarchical.” It allows space for people who are working in places that don’t necessarily provide a ton of room for critical discourse to come together and think about that.
+**LH** I was reading about Evening Class recently. <span class="contentNote">(8)</span> It started as an alternative to a BFA or an MFA and then turned into, “Okay, how can we create a continuing education space that’s community oriented; maybe it’s open-source, maybe it’s non-hierarchical.” It allows space for people who are working in places that don’t necessarily provide a ton of room for critical discourse to come together and think about that.
 
 That’s a division I’ve played with in my head; whether you work in service to industry or work in some absolutely subversive way, those are the only two paths. But it’s not like that. That’s never really the case. Maybe you can work strictly in service to industry, but I don't think it's really possible to work totally against industry and commerce. Those spaces become interesting, too. What can a peer-education or on-going education space provide that’s not available or restricted within the institutional framework? A college like Pratt is still expected to provide a fairly standardized tool kit.
 
 **NA** That’s the draw-back. We still have to provide this functioning working way of you getting into the world and “making it.” We’ve had these discussions, like, “Maybe we have these alternative minors of ‘How to Counterfeit Money,’” and that’s a minor. That’s stuff we want to try out, but I don’t know if they’ll let us. It’s maybe not ethical, it depends on what you see as ethical.
 
-**LH** Part of my friction with some of the instruction I’ve gotten during my undergraduate studies is that I would like for everyone to encourage critical reflection. I remember reading someone’s framework for practicing more ethically that proposed three levels of criticism: criticism of the self and the work you’re making, criticism of the community and your peers and the way you’re all making work, and criticism of how graphic design at large connects to the world beyond it. Those propose three tiers through which to evaluate the work that’s being made and situate yourself better within the grand scheme of things. But I also think it’s beyond Pratt’s control—nor do they want to, necessarily—ask every teacher to bring those ideas into the classroom. I’ve certainly had my fair share of teachers where the idea is that you know how to typeset a brochure so you can go work at Pentagram when you graduate.
+**LH** Part of my friction with some of the instruction I’ve gotten during my undergraduate studies is that I would like for everyone to encourage critical reflection. I remember reading someone’s framework for practicing more ethically that proposed three levels of criticism: criticism of the self and the work you’re making, criticism of the community and your peers and the way you’re all making work, and criticism of how graphic design at large connects to the world beyond it. <span class="contentNote">(9)</span> Those propose three tiers through which to evaluate the work that’s being made and situate yourself better within the grand scheme of things. But I also think it’s beyond Pratt’s control—nor do they want to, necessarily—ask every teacher to bring those ideas into the classroom. I’ve certainly had my fair share of teachers where the idea is that you know how to typeset a brochure so you can go work at Pentagram when you graduate.
 
 The additional issue with that is that a lot of people want that, that’s what they’ve always expected design to be. There isn’t an understanding of an alternative to that way of working.
 
@@ -74,7 +266,7 @@ The additional issue with that is that a lot of people want that, that’s what 
 
 I especially think, after all of this whatever that we’re going through, it’s going to be even more imperative to think through this. If there’s no market for a designer—that’s an extreme, maybe—but does it make sense to have a learning outcome that’s to create 3D shit? Is it more about making something just and ethical? Maybe that’s a reach, I don’t know. Is it more about supply chain? Designers can think in that way.
 
-**LH** I think my generation and class, and the surrounding classes of people entering the field, are going to be so conditioned by this experience. Even in regard to the formal outputs. I was taking Independent Publishing before this all happened, and that’s a class that centers around the Risograph as a gift from above that we can make these inevitably beautiful things with. Suddenly we’re taken away from that context, and we don’t have the same tool to use. Even thesis; instead of it being this printed object, now we really understand better than before the limitations of certain physical forms. I want to communicate this work with everyone, and I've found myself learning React so that I can build out a more developed website to communicate this because that feels like the most fitting way to talk to people now, rather than a publication that’s a physical book.
+**LH** I think my generation and class, and the surrounding classes of people entering the field, are going to be so conditioned by this experience. Even in regard to the formal outputs. I was taking Independent Publishing before this all happened, and that’s a class that centers around the Risograph <span class="contentNote">(10)</span> as a gift from above that we can make these inevitably beautiful things with. Suddenly we’re taken away from that context, and we don’t have the same tool to use. Even thesis; instead of it being this printed object, now we really understand better than before the limitations of certain physical forms. I want to communicate this work with everyone, and I've found myself learning React so that I can build out a more developed website to communicate this because that feels like the most fitting way to talk to people now, rather than a publication that’s a physical book.
 
 **NA** Maybe the learning outcomes are about flexibility and fluidity and those kinds of things. Those are really conditions that’s a real thing you have to respond to in the world, not being so rigid.
 
@@ -101,7 +293,7 @@ That’s an example, to what you were saying, of when your ethics can keep you f
 
 Then, again, Chris and I are working on writing these minors. Some of them are sillier than others, but those are more about, “Where is design situated?” Some of them are about promoting an anti-capitalist perspective in design, and that would take almost no time, it would take a year. There are different ways of doing it that are more scaffolded.
 
-**LH** That’s the constant question: how much of this is just wishful thinking? But I know it can be done, I remember talking to Duncan about Werkplaats Typografie and Sandberg Instituut which both operate in places where there’s more state funding and more grant money allocated for people that are working beyond the commercial sphere. They’re also still models of what design can look like when it isn’t so Pentagram-centric.
+**LH** That’s the constant question: how much of this is just wishful thinking? But I know it can be done, I remember talking to Duncan about Werkplaats Typografie <span class="contentNote">(11)</span> and Sandberg Instituut <span class="contentNote">(12)</span> which both operate in places where there’s more state funding and more grant money allocated for people that are working beyond the commercial sphere. They’re also still models of what design can look like when it isn’t so Pentagram-centric. <span class="contentNote">(13)</span>
 
 **NA** I would also even question Werkplaats or Sandberg. Werkplaats continuously does the same thing over and over again. After a while, it’s like, how is Werkplaats even effective? How are they doing something that’s resonating or even acknowledging what’s happening in the world around it. It might have started in a place that’s challenging something, but it’s now become rooted and trendy, you know? I would think about that too.
 
@@ -111,24 +303,24 @@ Then, again, Chris and I are working on writing these minors. Some of them are s
 
 There might be a loss of language, maybe we don’t quite understand what each other is saying, but even designers across designers almost don’t know what we’re saying. There’s no one way of saying, “This is what this certain thing means.” I think that creates authority and hierarchy, and I think that's what we should get away from or try to challenge.
 
-**LH** I’m trying to find a reading that presents five points for a more critical and ethical practice. One of them that feels especially relevant with Pratt is encouraging the students first practice commissioned work within their own communities. First practicing making work for the people around them. I don’t think there’s anywhere where the lack of that is more clear than Pratt. I wrote an essay and made a mini-broadsheet about the Housing Act of 1949 and Robert Mose’s “Slum Clearance” initiatives that allowed Pratt to be walled-off and so many buildings to be demolished so that we could have this large perimeter and remove the train that used to run down Grand Avenue. That’s all design. That was all design of a city and infrastructure and segregation. It all is so imbued in what we practice at Pratt; you have this place that was created by displacement becoming a mechanism that continues to displace others as it gentrifies the surrounding area. That questions how present the dialogue is between the institution and what lies beyond its gates.
+**LH** I’m trying to find a reading that presents five points for a more critical and ethical practice. One of them that feels especially relevant with Pratt is encouraging the students first practice commissioned work within their own communities. First practicing making work for the people around them. I don’t think there’s anywhere where the lack of that is more clear than Pratt. I wrote an essay and made a mini-broadsheet about the Housing Act of 1949 and Robert Mose’s “Slum Clearance” initiatives that allowed Pratt to be walled-off and so many buildings to be demolished so that we could have this large perimeter and remove the train that used to run down Grand Avenue. <span class="contentNote">(14)</span> That’s all design. That was all design of a city and infrastructure and segregation. It all is so imbued in what we practice at Pratt; you have this place that was created by displacement becoming a mechanism that continues to displace others as it gentrifies the surrounding area. That questions how present the dialogue is between the institution and what lies beyond its gates.
 
 **NA** Well, I don’t think it's very present at all. I think there’s an animosity, wouldn’t you say? How do you feel about Pratt working with the community?
 
-LH It’s so dependent on context. There are so many ways in which Pratt working with the community is just a way to Trojan Horse more gentrification into the neighborhood. Myrtle Avenue’s “rejuvenation” initiative serves Pratt students, it serves yuppies. It wasn’t launched because any of the participating sources of funding or agencies cared to invest in the existing community; if that was the case, it would have happened long ago. The question that arises is, “How much of the work that’s done regarding the community around Pratt is actually in service to that community or actually allowing participation from the community, and how much is it just a way to virtue signal without challenging anything?
+LH It’s so dependent on context. There are so many ways in which Pratt working with the community is just a way to Trojan Horse more gentrification into the neighborhood. Myrtle Avenue’s “rejuvenation” initiative serves Pratt students, it serves yuppies. <span class="contentNote">(15)</span> It wasn’t launched because any of the participating sources of funding or agencies cared to invest in the existing community; if that was the case, it would have happened long ago. The question that arises is, “How much of the work that’s done regarding the community around Pratt is actually in service to that community or actually allowing participation from the community, and how much is it just a way to virtue signal without challenging anything?
 
 Maybe some people who live in the community want Pratt to participate, like, “You took over our space and now you don’t do anything for us.” This is a paradigm that exists with a lot of institutions, like Michigan State, East Lansing and Lansing. It’s an issue in Michigan, Duke and Durham have this issue. Institutions come, have a boat-load of money, and then do nothing for the community. Or the stuff they do is so out of touch with what's actually happening, like, “You’re just ruining everything about our livelihood and using all of our resources. When you do engage with us, you have no idea what’s going on with our actual lives.”
 
 \
 I think more Brooklynites, born-and-raised, should have scholarships or should be able to have free tuition to Pratt. We don’t offer as much of that as we should.
 
-**LH** I’ve had that conversation with peers. What if instead of having three different campuses, some of those resources were concentrated on serving people in the community around one of the campuses? Maybe this is in bad taste to single out, but how the Utica campus interacts with the dynamics of the Brooklyn campus. At what point is Pratt only creating more spaces to be able to charge more people tuition? That’s not in the interest of anyone other than the school.
+**LH** I’ve had that conversation with peers. What if instead of having three different campuses, some of those resources were concentrated on serving people in the community around one of the campuses? <span class="contentNote">(16)</span> Maybe this is in bad taste to single out, but how the Utica campus interacts with the dynamics of the Brooklyn campus. At what point is Pratt only creating more spaces to be able to charge more people tuition? That’s not in the interest of anyone other than the school.
 
 **NA** We should have more New Yorkers or people from Brooklyn as part of our student body. We should give them tuition, but that doesn’t sustain Pratt’s model.
 
 **LH** That opens up the question of, “Is there an ethical model for design education in Clinton Hill?” Is there a way for Pratt to realistically be a more considered place, or is it always going to be confined by capitalism and greed with the chief goal being remaining profitable.
 
-**NA** One thing we have to think about is that we already took the space. If Pratt leaves, that area becomes more depressed economically. As we’re looking at what’s happening in the world today, I think we can assume that we might have fewer and fewer international students because of the closed embassies and difficulties getting to the United States. How do we support our own neighborhoods and continue educating and continuing supporting students in the area? I think that’s something to consider, and I think that’s something we should do. I think Pratt has money, they’re just putting it in different places. Like opening the Navy Yard lab: do we need that? Again, that’s just signalling that we are researchers or whatever.
+**NA** One thing we have to think about is that we already took the space. If Pratt leaves, that area becomes more depressed economically. As we’re looking at what’s happening in the world today, I think we can assume that we might have fewer and fewer international students because of the closed embassies and difficulties getting to the United States. How do we support our own neighborhoods and continue educating and continuing supporting students in the area? I think that’s something to consider, and I think that’s something we should do. I think Pratt has money, they’re just putting it in different places. Like opening the Navy Yard lab: do we need that? Again, that’s just signalling that we are researchers or whatever. <span class="contentNote">(17)</span>
 
 **LH** That’s so rooted in the colonial notion of knowing the way to do everything and being the central point from which everything must branch out.
 
@@ -148,7 +340,7 @@ I think more Brooklynites, born-and-raised, should have scholarships or should b
 
 **LH** I do, too, and I think that’s where Evening Class or similar models are most interesting. They harness the importance of being in a room together but also challenge the hierarchy of traditional learning.
 
-**NA** I think Black Mountain originally ran on this idea that there was no teacher. They were all together working together, and the ideas came from all of them. There wasn’t really a leader. If you really want to go radical with it, maybe you all get paid for going to school as much as the teacher. Of course we have to have jobs, but you could think about what the economic model of it is, too.
+**NA** I think Black Mountain <span class="contentNote">(18)</span> originally ran on this idea that there was no teacher. They were all together working together, and the ideas came from all of them. There wasn’t really a leader. If you really want to go radical with it, maybe you all get paid for going to school as much as the teacher. Of course we have to have jobs, but you could think about what the economic model of it is, too.
 
 I think it doesn’t have to be the way it is, it’s just the way it is because it’s a business. What does school even mean? Potentially the institution might break down. It might fail one day.
 
