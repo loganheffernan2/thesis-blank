@@ -4,94 +4,53 @@ date: 2020-04-26T16:39:27.590Z
 title: Chris Lee
 subhead: On Speculative Design Pedagogy
 notes:
-  - desc: >-
-      From the TXTBooks website: "TXTbooks is an artist-run independent
-      publishing initiative in Brooklyn, NY.
-
-
-      ¶ Our interest is in self-publishing as a collective while facilitating
-      projects with artists and writers working across many disciplines. Our
-      best case scenario is to publish those who have not yet considered
-      producing a zine, or at least don't consider it their main practice; Our
-      ultimate goal is to create dumb jokes and passion projects with as many
-      people as possible.
-
-
-      ¶ Our publications are resolved via Risograph printing for cost-effective
-      self production and as an informal way to aesthetically bind our output.
-
-
-      ¶ Founded in 2014, TXTbooks is currently maintained by Robert Blair,
-      Thomas Colligan, Nichole Shinn, Rose Wong, and Kurt Woerpel."
-    image: assets/txtbooks.png
-    link: 'https://www.youtube.com/watch?v=vIbRuNdrn6k'
-    linktitle: TXTbooks
+  - desc: Sandberg Instituut
+    image: ''
+    link: 'https://www.sandberg.nl/'
+    linktitle: Website
     number: '1'
-  - desc: >-
-      New York City's cost of living stands at 187.2% that of the national
-      average.
+  - desc: 2012 Dutch general election
     image: ''
-    link: ''
-    linktitle: ''
+    link: 'https://en.wikipedia.org/wiki/2012_Dutch_general_election'
+    linktitle: Wiki
     number: '2'
-  - desc: >-
-      During the primaries for the United State's 2020 election cycle,
-      Democratic candidate Michael Bloomberg hired high-traffic Instagram meme
-      pages to generate promotional memes.
+  - desc: Bruce Mau Design
     image: ''
-    link: ''
-    linktitle: ''
+    link: 'https://www.brucemaudesign.com'
+    linktitle: Website
     number: '3'
-  - desc: >-
-      At the time of this interview, Kurt was working as art director for
-      Interview Magazine.
-    image: assets/interview.png
-    link: ''
-    linktitle: ''
-    number: '4'
-  - desc: >-
-      From 1969 to 1985, Michigan's Detroit Printing Co-op exemplifies the
-      counter-capital potential of publishing. The co-op, operated as a
-      worker-owned workshop, produced radical leftist materials with limited
-      machinery.
-    image: assets/dpc-bug.png
-    link: ''
-    linktitle: ''
-    number: '5'
-  - desc: >-
-      Platform is a Chicago-based graphic design studio with a publishing arm,
-      Platform Editions.
+  - desc: Rietveld Academie
     image: ''
-    link: ''
-    linktitle: ''
+    link: 'https://rietveldacademie.nl'
+    linktitle: Website
+    number: '4'
+  - desc: OCADU
+    image: ''
+    link: 'https://www.ocadu.ca'
+    linktitle: Website
+    number: '5'
+  - desc: SUNY Buffalo
+    image: ''
+    link: 'http://www.buffalo.edu'
+    linktitle: Website
     number: '6'
   - desc: >-
-      From the Precarious Worker's Brigade website: "We are a UK-based group of
-      precarious workers in culture & education. We call out in solidarity with
-      all those struggling to make a living in this climate of instability and
-      enforced austerity. ¶ The PWB’s praxis springs from a shared commitment to
-      developing research and actions that are practical, relevant and easily
-      shared and applied. If putting an end to precarity is the social justice
-      we seek, our political project involves developing tactics, strategies,
-      formats, practices, dispositions, knowledges and tools for making this
-      happen."
+      "Workshop Project is the pedagogical design practice of Yasmin Khan and
+      Jessica Wexler. It is a platform for investigating and proposing new forms
+      and modalities of design education inside, outside and beyond the
+      institution. We make the artifacts of academia (i.e. applications,
+      symposia, curricula, lectures, presentations, workshops) as forms of
+      critical writing that articulate our ideas about the future-present of
+      design education and practice. Workshop Project also organizes symposia,
+      workshops and other collaborations with colleagues and educational
+      institutions."
     image: ''
-    link: ''
-    linktitle: ''
+    link: 'https://workshopproject.wiki/wpw'
+    linktitle: Workshop Project
     number: '7'
   - desc: >-
-      From the Evening Class website: Evening Class is an experiment in
-      self-organised education that has been active since January 2016. It's a
-      space where we can cultivate common interests, develop research and
-      collectively decide the class’s programme. Our programme takes the form of
-      public workshops, talks and debates, reading groups, radio broadcasting,
-      performances, walks, and publishing. ¶ We currently operate through
-      different working groups that feed their research back into the
-      collective. These working groups explore a range of themes, like
-      unionising design practices, post-capitalist desire and the commons.
-      Through these groups we work on developing a curriculum of both theory and
-      practice, often working in collaboration with other like-minded
-      organisations and individuals."
+      This conversation took place days after Pratt Institute announced the
+      switch to a pass/fail grading system in response to COVID-19.
     image: ''
     link: ''
     linktitle: ''
