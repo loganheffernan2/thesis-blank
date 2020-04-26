@@ -6,24 +6,6 @@ media_folder: static/assets
 public_folder: /assets
 
 collections:
-  - name: home
-    label: Home
-    folder: home
-    create: true
-    fields:
-      - { name: date, label: Date, widget: datetime }
-      - { name: title, label: Title }
-      - { name: subhead, label: Sub Head }
-      - { name: body, label: Body, widget: markdown }
-      - name: notes
-        label: notes
-        widget: list
-        fields:
-          - { name: number, label: Number, widget: text }
-          - { name: image, label: Image, widget: image, required: false }
-          - { name: linktitle, label: Link Title, widget: text, required: false }
-          - { name: link, label: Link, widget: text, required: false }
-          - { name: desc, label: Desc., widget: string }
   - name: blog
     label: Blog
     folder: blog

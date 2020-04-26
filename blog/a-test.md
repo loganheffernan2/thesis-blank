@@ -115,7 +115,7 @@ notes:
     link: ''
     linktitle: ''
 ---
-**Rob Blair** My name is Robert Blair. I’m currently a visiting instructor at Pratt Institute. Me and Kurt graduated in 2014 from Pratt. In addition to that, we are both practicing freelance designers and art directors. We run a publishing project called [TXTBooks](http://www.txtbooks.us/) that started immediately after we graduated. A lot of my personal practice is photo-based and image-based as well as TXTbooks <span class="contentNote">(1)</span> being an output for my own personal non-commercial practice.  
+**Rob Blair** My name is Robert Blair. I’m currently a visiting instructor at Pratt Institute. Me and Kurt graduated in 2014 from Pratt. In addition to that, we are both practicing freelance designers and art directors. We run a publishing project called TXTBooks that started immediately after we graduated. A lot of my personal practice is photo-based and image-based as well as TXTbooks <span class="contentNote">(1)</span> being an output for my own personal non-commercial practice.  
 
 <br/>
 
