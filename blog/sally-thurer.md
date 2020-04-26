@@ -5,6 +5,7 @@ title: Sally Thurer
 subhead: 'On Making Work in the Industry, Design''s Implications, and Teaching'
 notes:
   - desc: 'The Legacy of the Body Bottle, Mmuseumm, 2016'
+    image: /assets/bodyBottle.jpeg
     number: '1'
   - desc: Columbia University
     link: 'https://www.columbia.edu/'
@@ -22,20 +23,24 @@ notes:
       released in France until almost a year later. A cut-down version was
       released in the United States and United Kingdom in September 2010."
       (Wikipedia)
+    image: /assets/enterVoid.jpg
     link: 'https://www.youtube.com/watch?v=_tG_b5zaT9Y'
     linktitle: Trailer
     number: '4'
   - desc: >-
       Sally held the "Head of Experiential Methodology and Critical Theory"
       position while at MTV.
+    image: /assets/noChill.jpeg
     link: 'https://vimeo.com/143374377'
     linktitle: MTV "No Chill"
     number: '5'
-  - desc: Illustration for Bloomberg Businessweek.
-    link: 'https://sallythurer.tumblr.com/post/161551411945'
-    linktitle: Tumblr
+  - desc: Sally Thurer for Bloomberg Businessweek.
+    image: /assets/businessWeek.jpg
+    link: ''
+    linktitle: ''
     number: '6'
   - desc: '"All the bootlegs, fakes, remixes, knock-offs & replicas we can find!!!"'
+    image: /assets/bootlegWiki.jpg
     link: 'https://www.instagram.com/bootlegwiki/'
     linktitle: Bootleg Wiki
     number: '7'
@@ -67,6 +72,7 @@ notes:
     linktitle: Wikipedia
     number: '9'
   - desc: Sally Thurer for New York Times.
+    image: /assets/nytCake.jpg
     link: >-
       https://www.nytimes.com/2020/03/14/opinion/sunday/yes-im-turning-50-no-im-not-really-ready.html
     linktitle: Article
@@ -82,9 +88,9 @@ notes:
       http://sallythurer.com/students/content/library/MichaelRock_Deprofessionalization.pdf
     linktitle: Deprofessionalization
     number: '11'
-  - desc: 'Graphic Design: Now in Production'
+  - desc: 'Graphic Design: Now in Production (2011)'
     link: 'http://www.t-a-g-d.info/downloads/tools-gd-in-production.pdf'
-    linktitle: Tool
+    linktitle: 'Tool (Or: Post-production for the Graphic Designer)'
     number: '12'
   - desc: The Gradient is Walker Art Center's design blog.
     link: 'https://walkerart.org/magazine/categories/design'
@@ -115,7 +121,7 @@ notes:
   - desc: 'Andrew Blauvelt: Ghost in the Machine - Distributing Subjectivity'
     link: >-
       http://sallythurer.com/students/content/library/AndrewBlauvelt_GhostintheMachine.pdf
-    linktitle: Essay
+    linktitle: Writing
     number: '17'
   - desc: 'Fred Turner - Keynote: From Counter-culture to Cyberculture'
     link: 'https://www.youtube.com/watch?v=6Py_P1_cHUE&t=1s'
@@ -147,16 +153,19 @@ notes:
     linktitle: The Babysitters Club
     number: '21'
   - desc: Coca-Cola - "Yummmmmmm" (2015)
+    image: /assets/cokeAdOne.png
     link: 'https://www.youtube.com/watch?v=fZaXSQcKNxM'
     linktitle: Video
     number: '22'
   - desc: Diet Coke Roller Girl
+    image: /assets/cokeAdTwo.png
     link: 'https://www.youtube.com/watch?v=CpTNNpRBi-A&feature=youtu.be'
     linktitle: Video
     number: '23'
   - desc: >-
       "Parachute, the Bedding Brand, Reminds Us We're All Just Animals Who Want
       to Snuggle"
+    image: /assets/paraChute.jpg
     link: >-
       https://musebycl.io/advertising/parachute-bedding-brand-reminds-us-were-all-just-animals-who-want-snuggle
     linktitle: Article
@@ -180,7 +189,8 @@ notes:
     link: 'https://en.wikipedia.org/wiki/Nudge_theory'
     linktitle: Wikipedia
     number: '26'
-  - desc: A modified approach to canvassing.
+  - desc: Sticker by Sally Thurer.
+    image: /assets/boomersBernie.jpg
     link: 'https://www.instagram.com/p/B9h5GyzhQ9l/'
     linktitle: Instagram
     number: '27'
@@ -212,6 +222,7 @@ notes:
     linktitle: Website
     number: '30'
   - desc: Restoration Reader
+    image: /assets/restorationReader.png
     link: 'http://sallythurer.com/RestorationReader.pdf'
     linktitle: PDF
     number: '31'
@@ -227,6 +238,7 @@ notes:
       Dazed 100er Mia Kerin and artist Lucas Mascatello that rejects image
       almost entirely, a sprawling mass of text that feels as confrontational as
       it does conversational."
+    image: /assets/civilizationPaper.jpg
     link: >-
       https://www.dazeddigital.com/life-culture/article/39939/1/civilization-magazine-new-york-richard-turley-mia-kerin-interview
     linktitle: Dazed
