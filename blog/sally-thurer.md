@@ -205,10 +205,32 @@ notes:
     link: 'http://laurelschwulst.com/'
     linktitle: Website
     number: '29'
-  - desc: Metahaven is a Dutch design firm using graphic design to talk about power.
+  - desc: >-
+      Metahaven is a Dutch design firm that uses graphic design to talk about
+      power.
     link: 'http://metahaven.net/'
     linktitle: Website
     number: '30'
+  - desc: Restoration Reader
+    link: 'http://sallythurer.com/RestorationReader.pdf'
+    linktitle: PDF
+    number: '31'
+  - desc: 'Talk is Cheap: Sally Thurer'
+    link: 'https://play.wilson.fm/episode/6V72oKUoGedGDRiJ46dfG9/'
+    linktitle: Audio
+    number: '32'
+  - desc: >-
+      "2018 is the age of the image. They’re everywhere, we create our own
+      constantly, and we’re obsessed by the idea of image – the word is more
+      loaded than ever in a hyper curated, self-surveilled era of information.
+      Civilization is a new magazine created by design anti-hero Richard Turley,
+      Dazed 100er Mia Kerin and artist Lucas Mascatello that rejects image
+      almost entirely, a sprawling mass of text that feels as confrontational as
+      it does conversational."
+    link: >-
+      https://www.dazeddigital.com/life-culture/article/39939/1/civilization-magazine-new-york-richard-turley-mia-kerin-interview
+    linktitle: Dazed
+    number: '33'
 ---
 **Sally Thurer** I’m Sally. I teach at Pratt. I also teach at other schools; this semester I’m teaching at NYU. This is my fifth time teaching the same class at NYU, which is a really different experience than Pratt; it's an introductory foundation class based on the Bauhaus—I don’t teach anything like that at Pratt. I have an illustration practice, which is pretty regular. It’s mostly editorial. I’m doing a branding project, which is very illustrative. What else am I working on? I just got a grant to try to finish my Body Bottle <span class="contentNote">(1)</span> thing or try to get it into a more reasonable form. I’ve been trying to wrap that up for a number of years.
 
@@ -347,6 +369,6 @@ I feel like we’ve been talking for a really long time, and we haven’t been t
 
 **ST** I think thesis is a really good model for what the curriculum can do. Part of thesis is to get you guys to define a point of view for yourselves and to think reflectively about what your approach is to graphic design and to be able to talk about it. Another thing is just for you guys to make a project and complete it and know that you can do that. There’s a real power in knowing that you have the capability to come up with your own idea and execute it.
 
-I was upset about this Restoration Hardware video I saw on the internet a few years ago, and I would talk about it occasionally—I’d get really fired up about it. Then I realized, “Oh, I can make a zine about it!” One thing I know I can do as a graphic designer is make a zine. If I sit down for six hours, I’ll have a pretty good zine. Having made a zine before and knowing I can do it—that feels really great. Then the zine became a tool. I had a little “happening” at this fundraising event, and I went on Harry’s podcast with something tangible that allowed me to talk about these issues that were bothering me. It maps on to what you guys do is that in thesis, you make a beautiful deck of tarot cards that has meaning for you because you researched tarot cards—or you develop your own philosophy for graphic design by interviewing your friends and reflecting. You come up with these projects and create a tangible output that enables you to talk about your ideas with other people; but it also reminds you that you can do this, you have the tools to do this.
+I was upset about this Restoration Hardware video I saw on the internet a few years ago, and I would talk about it occasionally—I’d get really fired up about it. Then I realized, “Oh, I can make a zine about it!” <span class="contentNote">(31)</span> One thing I know I can do as a graphic designer is make a zine. If I sit down for six hours, I’ll have a pretty good zine. Having made a zine before and knowing I can do it—that feels really great. Then the zine became a tool. I had a little “happening” at this fundraising event, and I went on Harry’s podcast with something tangible that allowed me to talk about these issues that were bothering me. <span class="contentNote">(32)</span> It maps on to what you guys do is that in thesis, you make a beautiful deck of tarot cards that has meaning for you because you researched tarot cards—or you develop your own philosophy for graphic design by interviewing your friends and reflecting. You come up with these projects and create a tangible output that enables you to talk about your ideas with other people; but it also reminds you that you can do this, you have the tools to do this.
 
-Moving forward, it becomes important—mid-way through your career or late in your career—to think, “Okay, so I’ve worked for other people for a while. Now—what do I want to do? I know how to do a project, I’ve done a self-initiated project before.” Whether that’s starting a fashion line or starting a newspaper—Richard started Civilization; he was in a creative crisis so he started a paper! Different people do different things; starting your own agency, creating a platform or community, experimenting with ceramics, inventing a new form of theater. Having started and completed a project makes you feel good and capable to take things on.
+Moving forward, it becomes important—mid-way through your career or late in your career—to think, “Okay, so I’ve worked for other people for a while. Now—what do I want to do? I know how to do a project, I’ve done a self-initiated project before.” Whether that’s starting a fashion line or starting a newspaper—Richard started Civilization; he was in a creative crisis so he started a paper! <span class="contentNote">(33)</span> Different people do different things; starting your own agency, creating a platform or community, experimenting with ceramics, inventing a new form of theater. Having started and completed a project makes you feel good and capable to take things on.
