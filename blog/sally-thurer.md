@@ -3,6 +3,9 @@ path: /sally-thurer
 date: 2020-04-26T19:54:18.527Z
 title: Sally Thurer
 subhead: 'On Making Work in the Industry, Design''s Implications, and Teaching'
+notes:
+  - desc: Test
+    number: '1'
 ---
 **Logan Heffernan** I’ve been starting all of these conversations by giving a moment to whoever I’m talking with to introduce themselves, what they do in relation to Pratt, and provide any other context that feels appropriate.  
 
