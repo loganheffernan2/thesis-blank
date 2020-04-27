@@ -2,7 +2,7 @@
 path: /sally-thurer
 date: 2020-04-26T19:54:18.527Z
 title: Sally Thurer
-subhead: 'On Making Work in the Industry, Design''s Implications, and Teaching'
+subhead: On Making Work and the Implications of Graphic Design
 notes:
   - desc: 'The Legacy of the Body Bottle, Mmuseumm, 2016'
     image: /assets/bodyBottle.jpeg
