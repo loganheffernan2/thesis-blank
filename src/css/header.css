@@ -12,22 +12,22 @@
     src: url(../../static/fonts/ortica/Ortica-Bold.woff2) format('woff2');}
     
 @font-face {
-    font-family: "Ortica";
+    font-family: "Formular";
     font-weight: normal;
     src: url(../../static/fonts/ortica/Ortica-Light.woff) format('woff');
     src: url(../../static/fonts/ortica/Ortica-Light.woff2) format('woff2');}
 
 @font-face {
-    font-family: "Work";
+    font-family: "Formular";
     font-weight: normal;
-    src: url(../../static/fonts/work/WorkSans-Regular.woff);
-    src: url(../../static/fonts/work/WorkSans-Regular.woff2);}
+    src: url(../../static/fonts/formular/formular-regular.woff);
+    src: url(../../static/fonts/formular/formular-regular.woff2);}
 
     @font-face {
-        font-family: "Work";
+        font-family: "Formular";
         font-weight: bold;
-        src: url(../../static/fonts/work/WorkSans-Bold.woff);
-        src: url(../../static/fonts/work/WorkSans-Bold.woff2);}
+        src: url(../../static/fonts/formular/formular-bold.woff);
+        src: url(../../static/fonts/formular/formular-bold.woff2);}
 
 #headerWrap {
     position: fixed;
