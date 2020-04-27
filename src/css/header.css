@@ -17,6 +17,18 @@
     src: url(../../static/fonts/ortica/Ortica-Light.woff) format('woff');
     src: url(../../static/fonts/ortica/Ortica-Light.woff2) format('woff2');}
 
+@font-face {
+    font-family: "Work";
+    font-weight: normal;
+    src: url(../../static/fonts/work/WorkSans-Regular.woff);
+    src: url(../../static/fonts/work/WorkSans-Regular.woff2);}
+
+    @font-face {
+        font-family: "Work";
+        font-weight: bold;
+        src: url(../../static/fonts/work/WorkSans-Bold.woff);
+        src: url(../../static/fonts/work/WorkSans-Bold.woff2);}
+
 #headerWrap {
     position: fixed;
     z-index: 999;
