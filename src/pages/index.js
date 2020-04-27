@@ -68,7 +68,7 @@ export default () => {
             <div class="titleDiv"></div>
             <span class="noteTop">
             <span class="noteNumb">6</span>
-            <span class="noteDesc">A Conversation with Nita Abdullah<a class="noteLink" href="https://wherearewe.netlify.app/nida-abdullah/">On Ethical Mediations and Design Education</a></span>
+            <span class="noteDesc">A Conversation with Nida Abdullah<a class="noteLink" href="https://wherearewe.netlify.app/nida-abdullah/">On Ethical Mediations and Design Education</a></span>
             </span>
             <img src="" alt=""></img>
             </li>
