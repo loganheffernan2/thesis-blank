@@ -1,5 +1,5 @@
 ---
-path: /anita-abdullah
+path: /nida-abdullah
 date: 2020-04-26T18:35:11.749Z
 title: Nida Abdullah
 subhead: On Ethical Mediations and Design Education
