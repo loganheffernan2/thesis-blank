@@ -3,6 +3,16 @@ path: /intro-essay
 date: 2020-04-27T02:26:31.502Z
 title: An Introduction
 subhead: In Hopes of New Design Pedagogy
+notes:
+  - desc: >-
+      This work has been a labor of love over the past semester and a half. As a
+      research-intensive project, I often found the scope amorphous; one
+      conversation would widen my considerations while the next would hone them
+      in on what I had previously considered mere minutia. On the whole,
+      gathering this dialogue felt like drawing concentric circles. Whether each
+      addition wrapped the last or fit inside, they all shared a common central
+      pillar: speculation toward more ethical design practice and pedagogy.
+    number: A Note
 ---
 While imprisoned under the fascist rule of Benito Mussolini, Italian philosopher Antonio Gramsci penned a collection of writings that would later be published as his “Prison Notebooks.” Though these writings touch on many facets of the emerging neo-Marxist thought Gramsci represented, his exposition of “cultural hegemony” remains among his most enduring critiques of capitalist society. This lens divides capitalist culture into two parts: the base and the superstructure. Originally put forth by Marx, the base represents both the means and modes of production; the superstructure refers primarily to a society’s dominant ideologies. Where Marx believed that the inherent turmoil of capitalism would move the working class, or proletariat, to rebel against the superstructure, Gramsci instead focused his efforts on understanding why the revolution never materialized. In “Prison Writings,” Gramsci asserts that the capitalist class has successfully convinced the proletariat to take stock in the beliefs upheld by the superstructure. Rather than find issue with class disparity, exploitation, and alienation, the working class has instead adopted the interests of the bourgeois as their own.
 
