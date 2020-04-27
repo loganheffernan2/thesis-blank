@@ -246,7 +246,7 @@ notes:
 ---
 **Sally Thurer** I’m Sally. I teach at Pratt. I also teach at other schools; this semester I’m teaching at NYU. This is my fifth time teaching the same class at NYU, which is a really different experience than Pratt; it's an introductory foundation class based on the Bauhaus—I don’t teach anything like that at Pratt. I have an illustration practice, which is pretty regular. It’s mostly editorial. I’m doing a branding project, which is very illustrative. What else am I working on? I just got a grant to try to finish my Body Bottle <span class="contentNote">(1)</span> thing or try to get it into a more reasonable form. I’ve been trying to wrap that up for a number of years.
 
-<br/><br/>
+<br/>
 
 Looking back, I see my career as having two parts, which would be before grad school and after grad school. I was almost entirely self-trained before I got my MFA. I have a liberal arts degree. I majored in film theory at Columbia <span class="contentNote">(2)</span>, and then I took a few classes at SVA <span class="contentNote">(3)</span> to learn some graphic design. I also read some books, looked at magazines, engaged with graphic design—not in a very formal way—and basically taught myself. I art directed two magazines during that period.
 
