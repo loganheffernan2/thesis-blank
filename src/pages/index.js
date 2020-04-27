@@ -27,7 +27,7 @@ export default () => {
             <div class="titleDiv"></div>
             <span class="noteTop">
             <span class="noteNumb">1</span>
-            <span class="noteDesc">An Introductory Essay <a class="noteLink" href="https://wherearewe.netlify.app/intro-essay/">Link</a></span>
+            <span class="noteDesc">Where Are We<a class="noteLink" href="https://wherearewe.netlify.app/intro-essay/">An Introductory Essay</a></span>
             </span>
             <img src="" alt=""></img>
             </li>
@@ -35,7 +35,7 @@ export default () => {
             <div class="titleDiv"></div>
             <span class="noteTop">
             <span class="noteNumb">2</span>
-            <span class="noteDesc">An interview with Anita Cooney<a class="noteLink" href="https://wherearewe.netlify.app/anita-cooney/">On Bringing Together the School of Design</a></span>
+            <span class="noteDesc">A Conversation with Anita Cooney<a class="noteLink" href="https://wherearewe.netlify.app/anita-cooney/">On Bringing Together the School of Design</a></span>
             </span>
             <img src="" alt=""></img>
             </li>
