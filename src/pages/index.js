@@ -18,8 +18,8 @@ export default () => {
           id="textContent"
           className="blog-post-content"/>
       <p>
-      <span id="subhead">An inner-institute research project exploring the positioning of ethics within design practice and pedagogy.</span><br/><br/>Stemming from a frustration with the capital-friendly industry-first tilt of Pratt Instutitute's undegraduate Communications Design program, "Where Are We" creates channels of dialogue with the school's faculty. From the Dean of the School of Design to the professors delivering the curriculum, the resulting conversations position graphic design within institutions of education and commerce alike, acknowledging the current state of the program while working toward pragmatic revisions to help better equip graphic designers for their entry into hyper-global 11th-hour capitalism.</p>          
-      <div id="contentFill"></div>
+      <span id="subhead">An inner-institute research project exploring the positioning of ethics within design practice and pedagogy.</span><br/><br/>Stemming from a frustration with the capital-friendly industry-first tilt of Pratt Instutitute's undergraduate Communications Design program, "Where Are We" creates channels of dialogue with the school's faculty. From the Dean of the School of Design to the professors delivering the curriculum, the resulting conversations position graphic design within institutions of education and commerce alike, acknowledging the current state of the program while working toward pragmatic revisions to help better equip graphic designers for their entry into hyper-global 11th-hour capitalism.</p>          
+      <img alt="" src="https://raw.githubusercontent.com/loganheffernan2/thesis-blank/master/static/assets/designPolitics-01-01.svg"></img>
       </div>
       <div id="postNotes">
       <span class="headerBumper"></span>
