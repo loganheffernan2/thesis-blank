@@ -16,7 +16,7 @@ notes:
       bind our output.¶ Founded in 2014, TXTbooks is currently maintained by
       Robert Blair, Thomas Colligan, Nichole Shinn, Rose Wong, and Kurt
       Woerpel."
-    image: ''
+    image: /assets/txtbooks.png
     link: 'http://www.txtbooks.us/'
     linktitle: TXTbooks
     number: '1'
@@ -39,7 +39,7 @@ notes:
   - desc: >-
       At the time of this interview, Kurt was working as art director for
       Interview Magazine.
-    image: ''
+    image: /assets/interview.png
     link: 'https://www.interviewmagazine.com/'
     linktitle: Interview
     number: '4'
@@ -58,7 +58,7 @@ notes:
       printed by the League of Revolutionary Black Workers; and the occasional
       broadsheet, such as Judy Campbell’s stirring indictment, “Open letter from
       ‘white bitch’ to the black youths who beat up on me and my friend.”"
-    image: ''
+    image: /assets/dpc-bug.png
     link: 'http://www.inventorypress.com/product/the-detroit-printing-co-op'
     linktitle: Inventory Press
     number: '6'
@@ -177,7 +177,7 @@ notes:
 
 <br/>
 
-**RB** I think one way to approach the question of ethics would be to take the doctor’s approach with the hippocratic oath anddo no harm. Sometimes this is clear. Probably best not to do any work for say – the military, tobacco companies, gun manufacturers, etc. I think the problem is that the more savvy you become to the world around you, the harder it is to draw the line. As the underbelly of consumer capitalism is exposed you come to realize ethics are scant. Sure I can make an interesting piece of video work for an upscale fashion brand, but what are the conditions of the workers actually making the product? Does my role as a designer promoting a product only perpetuate this labor exploitation? Does this apply to literally everything?
+**RB** I think one way to approach the question of ethics would be to take the doctor’s approach with the hippocratic oath and do no harm. Sometimes this is clear. Probably best not to do any work for say – the military, tobacco companies, gun manufacturers, etc. I think the problem is that the more savvy you become to the world around you, the harder it is to draw the line. As the underbelly of consumer capitalism is exposed you come to realize ethics are scant. Sure I can make an interesting piece of video work for an upscale fashion brand, but what are the conditions of the workers actually making the product? Does my role as a designer promoting a product only perpetuate this labor exploitation? Does this apply to literally everything?
 
 <br/>
 
