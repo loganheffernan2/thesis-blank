@@ -27,7 +27,7 @@
     transform: translate(-50%,-50%);-ms-transform: translate(-50%,-50%);-webkit-transform: translate(-50%,-50%);}
 #textPlacement p:nth-child(1) {
     font-family: "Ortica";
-    font-size: 18pt;
+    font-size: 14pt;
     width: 80vw;}
 #textPlacement p:nth-child(2) {
     font-family: "Formular", Arial, Helvetica, sans-serif;
