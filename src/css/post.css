@@ -20,7 +20,7 @@
 #vertDiv {
     position: fixed;
     top: 0;
-    width: 1px;
+    width: 2px;
     height: 100%;
     left: 60%;}
 
@@ -47,7 +47,8 @@
     font-size: 24pt;
     line-height: 120%;
     margin-top: 2.5vh;
-    margin-bottom: 2.5vh;}
+    margin-bottom: 2.5vh;
+    text-align: left;}
 
 .titleDiv {
     width:100%;
@@ -127,7 +128,8 @@ li {
     @media (min-aspect-ratio: 1/1) {
     
         #artSum {
-            font-size: 36pt;}
+            font-size: 36pt;
+            text-align: right;}
         #subhead {
             font-size: 24pt;}
         .noteNumb {

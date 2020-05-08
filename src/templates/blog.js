@@ -25,6 +25,7 @@ export default function Template({
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: html }}
         />
+      <div id="fullBump"></div>
       </div>
       <div id="postNotes">
       <span class="headerBumper"></span>
