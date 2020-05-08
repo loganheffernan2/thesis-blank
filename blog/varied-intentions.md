@@ -6,8 +6,132 @@ subhead: Critical Design and its Imagined 21st Century Futures
 notes:
   - desc: >-
       Scene's like that of New York's Times Square literally illuminate today's
-      common design artifacts.
+      common design artifacts. Image: NBC New York
+    image: /assets/times-square.jpg
     number: '1'
+  - desc: >-
+      "Hertzian Tales explores the role electronic products might play in the
+      aesthetic inhabitation of a rapidly dematerialising, ubiquitous and
+      intelligent environment."
+    link: 'http://dunneandraby.co.uk/content/projects/67/0'
+    linktitle: 'Hertzian Tales, 1997–97'
+    number: '2'
+  - desc: >-
+      "Evidence Dolls is a research project commissioned by the Pompidou Centre
+      in Paris for the D-Day exhibition. It is part of an ongoing investigation
+      into how design can be used as a medium for public debate on the social,
+      cultural and ethical impact of emerging technologies."
+    image: /assets/evidence-doll.jpg
+    link: 'http://dunneandraby.co.uk/content/projects/69/0'
+    linktitle: 'Evidence Dolls, 2005'
+    number: '3'
+  - desc: >-
+      "Pratt Free School is a day of free classes open to the public and taught
+      by alumni from the Pratt Graduate Communications Design Department."
+    link: 'https://www.facebook.com/PrattFreeSchool/'
+    linktitle: Pratt Free School
+    number: '4'
+  - desc: >-
+      "In the evenings after finishing my work I would join them developing
+      ideas for conceptual projects, exhibitions, and competitions. I was
+      inspired by the breadth of work an architecture office did — private
+      houses, public housing, teaching, writing, products, sometimes conceptual
+      but mainly realized."
+    link: 'https://medium.com/ruki-founder-s-journal/dunne-791b911da362'
+    linktitle: RUKI Journal
+    number: '5'
+  - desc: 'Anthony Dunne, Fiona Raby. "Speculative Everything" Book Presentation'
+    link: 'https://www.youtube.com/watch?v=kmibm20UsoA&t=1727s'
+    linktitle: YouTube
+    number: '6'
+  - desc: >-
+      "Tuneable Cities explores new experiences of overlapping electromagnetic
+      and urban environments. This proposal uses the car as an interface to
+      explore interactions with existing and new systems. The most effective
+      design intervention here is not at the level of the object, but its
+      function. And it is through the medium of electronic products that new
+      urban experiences are provided."
+    image: /assets/tuneable-cities.jpg
+    link: 'http://dunneandraby.co.uk/content/projects/67/0'
+    linktitle: 'Tuneable Cities (from Hertzian Tales, 1994–97)'
+    number: '7'
+  - desc: >-
+      Notions of data privacy and the state-centric surveillance apparatus
+      permeate the work of Netherlands-based Metahaven, another definitive
+      speculative design studio. Speculative design often engages only vaguely
+      with a society’s prominent systems of power and control, gesturing toward
+      disparity while carefully circumventing any directly political statement.
+      Metahaven partially resolves that shortcoming, setting its sights on work
+      that—while still speculative—engages critically with present realities.
+      Established in 2007 by Vinca Kruk and Daniel van der Velden, Metahaven’s
+      most visible work is 2010’s “Uncorporate Identity,” a 600-page tomb
+      exploring the ways in which design becomes a tool for state-making and
+      (extremely) late capitalism. Kruk and van der Velden, who also both
+      supplement their income with teaching positions, proclaim Metahaven a
+      research-intensive design practice. In “Imagined Communities,” Benedict
+      Anderson writes of print capitalism, postulating that it was only through
+      access to the printing press that modern nationalism rose. The wide
+      dissemination of printed materials connected localities under a shared
+      discourse, a shared language. “Uncorporate Identity” expounds on
+      Anderson’s notions through a study of modern identity; the passport
+      represents a design artifact that denotes citizenship and grants movement
+      to its holder, well-branded technology giants usurp agency from both the
+      individual and the state. Statehood and brandhood seek to provide
+      immediate shared interests with which the individual can identify and
+      coalesce under. In undertaking this work, Metahaven reaches beyond its
+      immediate design fandom into a world concerned with financialization and
+      neofascism. There is no relinquishing of their graphic language, a
+      hyper-online pastiche of conventionally low-brow aesthetics, but there
+      remains resonance even for those less interested in the image-packed
+      spreads. Image: Metahaven's "Uncorporate Identity"
+    image: /assets/uncorporate-identity.jpg
+    link: >-
+      https://is.muni.cz/el/1423/jaro2016/SOC757/um/61816961/Benedict_Anderson_Imagined_Communities.pdf
+    linktitle: Imagined Communities (PDF)
+    number: A
+  - desc: '"Number of Jobs, 2018: 290,100"'
+    link: 'https://www.bls.gov/ooh/arts-and-design/graphic-designers.htm'
+    linktitle: U.S. Bureau of Labor Statistics
+    number: '8'
+  - desc: "In a metropolitan area such as New York City, graphic design often divides itself between four modes of practice. There are designers who work within small studios, designers who spend their days with larger agencies, designers who operate as independent freelancers, and designers who are brought in-house. Size constitutes the primary difference between the studio and the agency; while studios often employ teams of ten people or fewer, agencies span continents—Pentagram, the most mythologized of these machines, operates across five international locations and consists of 25 partners. While studios are oft perceived as a respite for those weary of implanting themselves within the gears of a Pentagram-like corporate firm, the structures share largely-similar operational methodologies. Both the studio and the agency provide their services to industry—though, as is important to remember, so does most labor. In contrast with the agenda-driven work of speculative practice, commercial design of all aforementioned scale prioritizes solvency. The studio practitioner and in-house art director are both tasked with providing market-ready visual content (read: advertising). Though design practice has done its best to extricate its formal artifacts from the economic structures they are produced within, such liberation is certainly impossible. Trade publications like Ad Age push for the insulation of the creative professions as innovative and benevolent by announcing annual lists and awards. Diversity becomes leveraged as brand-speak—representation matters only insofar as it lets folx of all identities see themselves in roles of consumption. Campaigns aim to connect with as broad of audiences as possible in favor of attractive quarterly reports. Pfizer virtue-signalling with rainbow pride logo renditions is taken as alibi-enough to gloss over the $959,263 donated by the pharma giant to 52 anti-LGBT legislators from 2017–2018.  \tNearly all commercial graphic design practice fundamentally resists critique of capitalism. Design confined to marketing performance peddles the products of exploited labor to the benefit of the capitalist class. The culture industry froths with excess; commodity offerings placate the alienated working class and hegemony remains intact. The consumer is continually reproduced onto themselves as the colonial capitalist assuages their unease with any burgeoning demand for a redistribution of capital."
+    image: /assets/pfizer-pride.jpg
+    link: >-
+      https://adage.com/article/special-report-agency-list/agency-list-2020/2249751
+    linktitle: Ad Age A-List
+    number: B
+  - desc: >-
+      The Organization of Solidarity with the People of Asia, Africa and Latin
+      America (Spanish: Organización de Solidaridad con los Pueblos de Asia,
+      África y América Latina), abbreviated as OSPAAAL, is a Cuban political
+      movement with the stated purpose of fighting globalisation, imperialism,
+      neoliberalism and defending human rights. Image: OSPAAAL.com
+    image: /assets/ospaaal-cuba.jpg
+    link: >-
+      https://en.wikipedia.org/wiki/Organization_of_Solidarity_with_the_People_of_Asia,_Africa_and_Latin_America
+    linktitle: Wikipedia
+    number: '9'
+  - desc: 'Michel de Certeau, "The Practice of Everyday Life"'
+    link: >-
+      https://monoskop.org/images/2/2a/De_Certeau_Michel_The_Practice_of_Everyday_Life.pdf
+    linktitle: PDF
+    number: '10'
+  - desc: >-
+      This "obsession" is quite warranted. Meme via Erik Carter's "Do You Want
+      Typography or Do You Want The Truth?" Are.na channel.
+    link: >-
+      https://www.are.na/erik-carter/do-you-want-typography-or-do-you-want-the-truth
+    linktitle: Aren.a
+    number: '11'
+  - desc: 'MoMA: Design and Violence'
+    link: >-
+      https://www.moma.org/interactives/exhibitions/2013/designandviolence/republic-of-salivation-michael-burton-and-michiko-nitta/
+    linktitle: Republic of Salivation (Michael Burton and Michiko Nitta)
+    number: '12'
+  - desc: 'Donna Haraway, "A Cyborg Manifesto."'
+    link: >-
+      http://people.oregonstate.edu/~vanlondp/wgss320/articles/haraway-cyborg-manifesto.pdf
+    linktitle: PDF
+    number: '13'
 ---
 Graphic design feels familiar to most; it adorns t-shirts, posters, bus stops, billboards. It is relatively easy to identify the field’s artifact-based output. However, this very ubiquity also presents an immense challenge when attempting to understand graphic design on a disciplinary level. There is design created for commercial purposes, design created for governmental purposes, design created to inform, design created to deceive—this familiar world is that of exploitive production and hegemonic culture industries. Within the field’s splintered lodging also dwells speculative or—more problematically—critical design.
 
