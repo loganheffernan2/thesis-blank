@@ -40,7 +40,7 @@
     height: 5vw;
     border-radius: 50%;
     border: 2px solid white;
-    bottom: 3.75vh;
+    bottom: 7.5vh;
     left: 50%;
     transform: translate(-50%,50%);-ms-transform: translate(-50%,50%);-webkit-transform: translate(-50%,50%);}
 
@@ -76,7 +76,8 @@
             font-size: 18pt;}
         #closeButton {
             width: 2vw;
-            height: 2vw;}
+            height: 2vw;
+            bottom: 3.75vh;}
         #leftSlash {
             width: 1.5vw;
             height: 1px;}
