@@ -4,8 +4,86 @@ date: 2020-04-26T22:11:35.405Z
 title: Anita Cooney
 subhead: On Bringing Together a School of Design
 notes:
-  - desc: Coming soon.
-    number: '0'
+  - desc: >-
+      Pratt's School of Design consists of Communications Design, Fashion
+      Design, Industrial Design, and interior design at the undergraduate level;
+      plus industrial design, interior design, communications design, and
+      package design at the graduate level.
+    link: 'https://www.pratt.edu/academics/school-of-design/'
+    linktitle: 'Pratt: School of Design'
+    number: '1'
+  - desc: >-
+      counter/point: The 2013 D-Crit Conference: Andrew Blauvelt, “Graphic
+      Design: Discipline, Medium, Practice, Tool, or Other?”
+    link: 'https://vimeo.com/showcase/2359892/video/66385792'
+    linktitle: Video
+    number: '2'
+  - desc: >-
+      I have collected all of my available undergraduate Communications Design
+      syllabi for anyone curious about the course content.
+    link: >-
+      https://docs.google.com/spreadsheets/d/1qbvyVInZbNLFOBfy-8L7akmaa8e_9Px7q_D_UgRFgxs/edit?usp=sharing
+    linktitle: Google Drive
+    number: '3'
+  - desc: >-
+      "The Poetics Lab course is an intensive faculty/student seminar,
+      play-space and transdisciplinary think-tank involving a small group of
+      faculty and students from across the Institute. Selected faculty and
+      students explore various aspects of an announced topic, thinking and
+      creating together on a range of relevant problems and provocations.
+      Enrollment is by permission only; a selection process takes place during
+      the semester before the class: please see advisor for details."
+    link: 'https://www.pratt.edu/eescripts/courseDesc.php?id=PLAB-499'
+    linktitle: Course Description
+    number: '4'
+  - desc: 'Talk is Cheap Ep. 14: Erik Carter'
+    link: 'http://www.wax.radio/#/episodes/episode-14-with-erik-carter?t=00:00:00'
+    linktitle: Podcast
+    number: '5'
+  - desc: >-
+      "Ayse (pronounced Eye-Shay) Birsel is one of Fast Company’s Most Creative
+      People 2017 and is on the Thinkers50 Radar List of the 30 management
+      thinkers most likely to shape the future of organizations. She is the
+      author of Design the Life You Love and gives lectures on Design the Work
+      You Love to corporations. Ayse is the co-founder of Birsel + Seck, the
+      award-winning design and innovation studio, and consults to Amazon,
+      Colgate-Palmolive, Herman Miller, GE, IKEA, The Scan Foundation, Staples
+      and Toyota, among others. Her work can be found in the permanent
+      collection of the Museum of Modern Art (MoMA)."
+    link: 'https://www.aysebirsel.com/'
+    linktitle: Website
+    number: '6'
+  - desc: >-
+      "In February 2018, Pratt Institute initiated the creation of this new
+      strategic plan. President Bronet charged the steering committee to create
+      a plan based on an in-depth consideration of “our legacy, our changing
+      context, our strengths, and our opportunities for further growth and
+      success.”"
+    link: 'https://www.pratt.edu/the-institute/strategic-planning/'
+    linktitle: 'Pratt: Strategic Planning'
+    number: '7'
+  - desc: >-
+      Themis Chronopoulos: "Robert Moses and the Visual Dimension of Physical
+      Disorder: Efforts to Demonstrate Urban Blight in the Age of Slum
+      Clearance"
+    link: >-
+      https://www.researchgate.net/publication/270724751_Robert_Moses_and_the_Visual_Dimension_of_Physical_Disorder_Efforts_to_Demonstrate_Urban_Blight_in_the_Age_of_Slum_Clearance
+    linktitle: ResearchGate (PDF)
+    number: '8'
+  - desc: ' In 1896, Pratt Institute moved its library from within Main to an independent building on Ryerson Street. Opened as the Pratt Institute Free Library, it served as the first free and public library within Brooklyn; the sole restriction to access was a minimum of age 14 years old. Though the library still resides in this Tiffany and Co. adorned building, public access was revoked in 1940; in the context of the campus’ later transformations, this step away from accessibility serves as a fitting precursor to the changes that followed during the 1950’s and 1960’s.'
+    number: '9'
+  - desc: >-
+      The college was one of the first in the country open to all people,
+      regardless of class, color, and gender. In the early years, the
+      institute's mission was to offer education to those who never had it
+      offered to them before. Pratt sought to teach people skills that would
+      allow them to be successful and work their way up the economic ladder.
+      Specifically, many programs were tailored for the growing need to train
+      industrial workers in the changing economy with training in design and
+      engineering.
+    link: 'https://en.wikipedia.org/wiki/Pratt_Institute'
+    linktitle: Wikipedia
+    number: '10'
 ---
 **LH** I’ve wanted to make space for each person to introduce who they are, what they do at Pratt, they’re educational lineage, etc.
 
@@ -15,7 +93,7 @@ notes:
 
 <br/>
 
-**LH** The School of Design is our largest school both in the programs it encapsulates and its number of students. How do you bring these disciplines together? Is there a shared centrality between, say, interior design and communication design?
+**LH** The School of Design is our largest school both in the programs it encapsulates and its number of students. <span class="contentNote>1</span> How do you bring these disciplines together? Is there a shared centrality between, say, interior design and communication design?
 
 <br/>
 
@@ -35,11 +113,11 @@ That’s one way that’s exciting to think about what this school is about. Wha
 
 <br/>
 
-**LH** Some people worry that moving beyond the discipline before you understand its boundaries can skirt its responsibilities; maybe you haven’t come to understand the implications of the field.
+**LH** Some people worry that moving beyond the discipline before you understand its boundaries can skirt its responsibilities; maybe you haven’t come to understand the implications of the field. <span class="contentNote>2</span>
 
 <br/>
 
-**AC** You want breadth, but you also want the depth. I understand that, I think we have to get that deep understanding. Foundation year is cross-disciplinary. Sophomore year is an introduction to critical skills within a discipline. Junior year is about exercising understanding of and competency within a discipline. The really big ambition is that by the final year, you have a degree of authorship. “How do I direct my own education, my own form making? Set my own agenda, write my own project, my own syllabus.” That’s part of what we’re asking in all of these disciplines. In fashion, it becomes, “What’s my collection? What’s the point of view? What are my materials?” It’s all on the body—so there are constraints that are maybe more direct than with your work—but there’s still a whole series of decisions regarding point of view and strategy and message. That’s really ambitious.
+**AC** You want breadth, but you also want the depth. I understand that, I think we have to get that deep understanding. Foundation year is cross-disciplinary. Sophomore year is an introduction to critical skills within a discipline. Junior year is about exercising understanding of and competency within a discipline. The really big ambition is that by the final year, you have a degree of authorship. <span class="contentNote>3</span> “How do I direct my own education, my own form making? Set my own agenda, write my own project, my own syllabus.” That’s part of what we’re asking in all of these disciplines. In fashion, it becomes, “What’s my collection? What’s the point of view? What are my materials?” It’s all on the body—so there are constraints that are maybe more direct than with your work—but there’s still a whole series of decisions regarding point of view and strategy and message. That’s really ambitious.
 
 <br/>
 
@@ -47,7 +125,7 @@ I do think that the conversation across disciplines can help you be self-aware a
 
 <br/>
 
-**LH** Whenever “Poetics Lab” is brought about in conversation, it’s always talked about as a workshop-oriented interdisciplinary program.
+**LH** Whenever “Poetics Lab” is brought about in conversation, it’s always talked about as a workshop-oriented interdisciplinary program. <span class="contentNote>4</span>
 
 <br/>
 
@@ -71,7 +149,7 @@ It’s interesting that you were referencing a class you took on Marxist theory 
 
 <br/>
 
-**AC** A professor can be very heavy handed. “This is the method I’m going to teach, this is what we are going to read, this is my point of view.” They can also set up a framework in which you ask the questions. They can provide the opportunity for that engagement to happen—not because they’re laying it all out and telling you, “Look at this in contrast to the capitalist society we live in!” At the same time I was reading Marx, there was a shift from reading narratives by historians to reading first-person narratives and constructing the story from readings.I don’t know if you’re familiar with Studs Terkel? He was in Chicago, and he talked to people about work; he talked to all kinds of workers.First person texts allow you to construct your own narrative. They don’t tell you what the political point of view is or provide a theory about how power is manifested in our culture, but they ask for you to piece together what you are seeing. It’s helpful to have those references to political theories and frameworks, but you have to be able to apply them to yourself. To me, a school does both. “I’m going to show you how to do this stuff, but I’m going to frame it so it shows you how to make these connections.”
+**AC** A professor can be very heavy handed. “This is the method I’m going to teach, this is what we are going to read, this is my point of view.” They can also set up a framework in which you ask the questions. They can provide the opportunity for that engagement to happen—not because they’re laying it all out and telling you, “Look at this in contrast to the capitalist society we live in!” At the same time I was reading Marx, there was a shift from reading narratives by historians to reading first-person narratives and constructing the story from readings. First person texts allow you to construct your own narrative. They don’t tell you what the political point of view is or provide a theory about how power is manifested in our culture, but they ask for you to piece together what you are seeing. It’s helpful to have those references to political theories and frameworks, but you have to be able to apply them to yourself. To me, a school does both. “I’m going to show you how to do this stuff, but I’m going to frame it so it shows you how to make these connections.”
 
 <br/>
 
@@ -83,11 +161,11 @@ It’s interesting that you were referencing a class you took on Marxist theory 
 
 <br/>
 
-**LH** That’s where self-awareness with one’s own practice enters the conversation. I was listening to an episode of Talk Magazine’s podcast with Erik Carter in which Erik and Harry talked about our desire to think about our form-making as a political act when maybe we should also consider that going out and canvassing on the weekends is far more of an engaged political action.
+**LH** That’s where self-awareness with one’s own practice enters the conversation. I was listening to an episode of Talk Magazine’s podcast with Erik Carter in which Erik and Harry talked about our desire to think about our form-making as a political act when maybe we should also consider that going out and canvassing on the weekends is far more of an engaged political action. <span class="contentNote>5</span>
 
 <br/>
 
-**AC** Ayse Birsel is an industrial designer who got her graduate degree from Pratt. In 2008, when the economy tanked, she started to do strategic design. She made a workbook called “Design the Life You Love. She sort of said, “I designed a great toilet for Toto, a potato peeler and other utensils for Target at a very low price point, office systems for Herman Miller.” She said that no one ever comes up to her and tells her that her potato peeler changed their life; but with the book, people have said to her over-and-over again, “This changed my life.” She teaches design principles to rethink how one structures their life or how they make. It’s relevant still to designers, not just to someone who doesn’t know design. It shifts people's understanding in a way that’s meaningful and personal; like, yes, I love my coffee cup, but I would never say that it’s changed my life. There’s limits to this stuff!
+**AC** Ayse Birsel is an industrial designer who got her graduate degree from Pratt. <span class="contentNote>6</span> In 2008, when the economy tanked, she started to do strategic design. She made a workbook called “Design the Life You Love. She sort of said, “I designed a great toilet for Toto, a potato peeler and other utensils for Target at a very low price point, office systems for Herman Miller.” She said that no one ever comes up to her and tells her that her potato peeler changed their life; but with the book, people have said to her over-and-over again, “This changed my life.” She teaches design principles to rethink how one structures their life or how they make. It’s relevant still to designers, not just to someone who doesn’t know design. It shifts people's understanding in a way that’s meaningful and personal; like, yes, I love my coffee cup, but I would never say that it’s changed my life. There’s limits to this stuff!
 
 <br/>
 
@@ -123,15 +201,15 @@ How would you situate the idea of “ethical practice?” What does it mean, wha
 
 <br/>
 
-**AC** I think it's even addressed in the strategic plan—I don’t know if you’ve gone and looked at that. There’s a pillar about diversity, equity, and inclusion. That comes down to who we hire, who we teach, how do we hire, what do we teach? Also—what do we focus our attention to or for? Who’s the intended audience? There’s also a sense of civic engagement; how are we connected to the community around us, whether that’s in the building, in the Pratt Community—you can just keep drawing larger circles. In all of that, what’s interesting about design is that you can’t escape the ethics of what you’re doing. Whether it's through the lens of sustainability or investigating power structures or challenging them or designing for someone who doesn’t have the ability to turn a doorknob easily. There’s ethics in all of it. They may not always be overt, but none of it is without ethics.
+**AC** I think it's even addressed in the strategic plan—I don’t know if you’ve gone and looked at that. <span class="contentNote>7</span> There’s a pillar about diversity, equity, and inclusion. That comes down to who we hire, who we teach, how do we hire, what do we teach? Also—what do we focus our attention to or for? Who’s the intended audience? There’s also a sense of civic engagement; how are we connected to the community around us, whether that’s in the building, in the Pratt Community—you can just keep drawing larger circles. In all of that, what’s interesting about design is that you can’t escape the ethics of what you’re doing. Whether it's through the lens of sustainability or investigating power structures or challenging them or designing for someone who doesn’t have the ability to turn a doorknob easily. There’s ethics in all of it. They may not always be overt, but none of it is without ethics.
 
 <br/>
 
-**LH** When I was talking with Jessica Wexler, she noted something similar. I think she phrased it as design being “born of the industrial revolution.” We are inextricable from these socioeconomic structures. We are inherently participating and driving the market and creating the systems that both construct and uphold inequality. That’s what makes it so important to consider how we’re doing what we’re doing. How can we change whose interests we are working for? Thinking about community, places like Pratt and other inner city institutions are part of a really complex conversation. We’re talking about a campus that was constructed under the 1949 Housing Act. Robert Moses’s “slum clearance” initiatives are what allowed the train to be rerouted away from campus and to wall off the school. It’s a meta-study of ethics to try studying ethics while also considering the ethics of the space where you are studying.
+**LH** When I was talking with Jessica Wexler, she noted something similar. I think she phrased it as design being “born of the industrial revolution.” We are inextricable from these socioeconomic structures. We are inherently participating and driving the market and creating the systems that both construct and uphold inequality. That’s what makes it so important to consider how we’re doing what we’re doing. How can we change whose interests we are working for? Thinking about community, places like Pratt and other inner city institutions are part of a really complex conversation. We’re talking about a campus that was constructed under the 1949 Housing Act. Robert Moses’s “slum clearance” initiatives are what allowed the train to be rerouted away from campus and to wall off the school. <span class="contentNote>8</span> It’s a meta-study of ethics to try studying ethics while also considering the ethics of the space where you are studying.
 
 <br/>
 
-**AC** To contrast that, it was also home to one of the first public libraries. It was one of the first schools in this area that didn’t discriminate based on race and gender. It’s complex.
+**AC** To contrast that, it was also home to one of the first public libraries. <span class="contentNote>9</span> It was one of the first schools in this area that didn’t discriminate based on race and gender. <span class="contentNote>10</span> It’s complex.
 
 <br/>
 
