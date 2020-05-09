@@ -66,21 +66,23 @@ notes:
       Themis Chronopoulos: "Robert Moses and the Visual Dimension of Physical
       Disorder: Efforts to Demonstrate Urban Blight in the Age of Slum
       Clearance"
+    image: /assets/CGV-s198548.jpg
     link: >-
       https://www.researchgate.net/publication/270724751_Robert_Moses_and_the_Visual_Dimension_of_Physical_Disorder_Efforts_to_Demonstrate_Urban_Blight_in_the_Age_of_Slum_Clearance
     linktitle: ResearchGate (PDF)
     number: '8'
   - desc: ' In 1896, Pratt Institute moved its library from within Main to an independent building on Ryerson Street. Opened as the Pratt Institute Free Library, it served as the first free and public library within Brooklyn; the sole restriction to access was a minimum of age 14 years old. Though the library still resides in this Tiffany and Co. adorned building, public access was revoked in 1940; in the context of the campus’ later transformations, this step away from accessibility serves as a fitting precursor to the changes that followed during the 1950’s and 1960’s.'
+    image: /assets/LIPR-s198702.jpg
     number: '9'
   - desc: >-
-      The college was one of the first in the country open to all people,
+      "The college was one of the first in the country open to all people,
       regardless of class, color, and gender. In the early years, the
       institute's mission was to offer education to those who never had it
       offered to them before. Pratt sought to teach people skills that would
       allow them to be successful and work their way up the economic ladder.
       Specifically, many programs were tailored for the growing need to train
       industrial workers in the changing economy with training in design and
-      engineering.
+      engineering."
     link: 'https://en.wikipedia.org/wiki/Pratt_Institute'
     linktitle: Wikipedia
     number: '10'
