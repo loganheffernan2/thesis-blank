@@ -41,8 +41,9 @@
     border-radius: 50%;
     border: 2px solid white;
     bottom: 20vh;
-    left: 50%;
-    transform: translate(-50%,50%);-ms-transform: translate(-50%,50%);-webkit-transform: translate(-50%,50%);}
+    top: 3.75vh;
+    right: 3.75vh;
+    transform: translate(50%,-50%);-ms-transform: translate(50%,-50%);-webkit-transform: translate(50%,-50%);}
 
 #leftSlash {
     position: absolute;
@@ -70,14 +71,15 @@
             font-size: 18pt;}
         #textPlacement p:nth-child(1) {
             font-family: "Ortica";
-            font-size: 36pt;
+            font-size: 24pt;
             width: 50vw;}
         #textPlacement p:nth-child(2) {
             font-size: 18pt;}
         #closeButton {
             width: 2vw;
             height: 2vw;
-            bottom: 3.75vh;}
+            top: 96.25vh;
+            left: 50%;}
         #leftSlash {
             width: 1.5vw;
             height: 1px;}
