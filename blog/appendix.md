@@ -5,45 +5,103 @@ title: Appendix
 subhead: Additional Resources
 notes:
   - desc: >-
-      Mentioned in multiple interviews, Evening Class describes itself as "an
-      experiment in self-organised education that has been active since January
-      2016. It's a space where we can cultivate common interests, develop
-      research and collectively decide the class’s programme. Our programme
-      takes the form of public workshops, talks and debates, reading groups,
-      radio broadcasting, performances, walks, and publishing." Though currently
-      based in London, Evening Class provides a blueprint for the implementation
-      of similar initiatives within other communities.
-    link: 'https://evening-class.org/'
-    linktitle: Evening Class
+      "Black Mountain College was an experimental college founded in 1933 by
+      John Andrew Rice, Theodore Dreier, and several others. Based in Black
+      Mountain, North Carolina, the school was ideologically organized around
+      John Dewey's principles of education, which emphasized holistic learning
+      and the study of art as central to a liberal arts education."
+    link: 'https://en.wikipedia.org/wiki/Black_Mountain_College'
+    linktitle: Wikipedia
     number: '1'
+  - desc: 'Shift/Work: Roy Ascott | Groundcourse'
+    link: >-
+      https://www.youtube.com/watch?time_continue=1435&v=uuUAYYfWnNo&feature=emb_logo
+    linktitle: Video
+    number: 2a
   - desc: >-
-      "Extra-curricular" also found its way into multiple conversations from the
-      original "Where Are We?" interviews. Published initially as a book,
-      "Extra-curricular" centers itself around the exploration of alternative
-      art and design education practices.
-    link: 'http://extra-curricular.org/'
-    linktitle: Extra-curricular
-    number: '2'
+      "In 1961 Roy Ascott established his first “Groundcourse” at Eailing Art
+      School. An experiment in radical pedagogy, Groundcourse methodically
+      applied cybernetic theories concerning systemic relations, communication,
+      interactivity, participation and feedback to an everyday art school
+      environment."
+    link: 'https://spacestudios.org.uk/exhibition-programme/groundcourse/'
+    linktitle: Space Studios
+    number: 2b
   - desc: >-
-      This reading list served as the catalyst for this work. There are many
-      propositions for new modes of learning and working within the linked
-      resources.
-    link: 'http://ethical-practice.odie.us/'
-    linktitle: Ethical Practicer Reader
+      "A student revolt as re-lived by the students themselves, The Hornsey Film
+      reconstructs the arguments and succession of events that led to the
+      occupation of Hornsey College of Art between May and July 1968."
+    link: 'https://archive.org/details/TheHornseyFilm/hornseyfilm_1.m4v'
+    linktitle: The Hornsey Film
     number: '3'
+  - desc: >-
+      "The Werkplaats Typografie (WT), a part of the ArtEZ University of the
+      Arts, is a two-year graphic design masters programme founded in 1998 by
+      Karel Martens and Wigger Bierma. The WT is centered on assignments and
+      self-initiated projects with lectures, seminars, meetings and readings
+      geared towards self-accountable and independently motivated work and
+      research."
+    link: 'https://werkplaatstypografie.org/info/'
+    linktitle: Werkplaats Typografie
+    number: '4'
+  - desc: >-
+      "As the postgraduate programme of the Gerrit Rietveld Academie Amsterdam,
+      the Sandberg Instituut offers Master Programmes in Fine Arts, Interior
+      Architecture and Design. The five Main Departments aim to deepen the
+      practices of artists, designers and critics. In addition, the Temporary
+      Programmes reflect on specific urgencies in society and the arts, and the
+      Hosted Programmes focus on collaboration with other institutes."
+    link: 'https://sandberg.nl/'
+    linktitle: Sandberg Instituut
+    number: '5'
+  - desc: Southland Institute
+    link: 'http://southland.institute/'
+    linktitle: Website
+    number: '6'
+  - desc: >-
+      "Sixth Street Haunted House is a new multi-purpose mutant space where you
+      can come and learn, make, buy or share something. We opened on October
+      31st, 2018. SSHH is run by Bráulio Amado and Nick Schiarizzi."
+    link: 'https://sshh.nyc/'
+    linktitle: SSHH
+    number: '7'
+  - desc: Evening Class
+    link: 'https://evening-class.org/'
+    linktitle: Website
+    number: '8'
+  - desc: Extra-curricular
+    link: 'http://extra-curricular.org/'
+    linktitle: Website
+    number: '9'
+  - desc: Ethical Practice Reader
+    link: 'http://ethical-practice.odie.us/'
+    linktitle: Microsite
+    number: '10'
+  - desc: >-
+      Please email me with any questions, thoughts, or ideas; I would love to
+      talk.
+    link: 'mailto:info@loganheffernan.com'
+    linktitle: Email
+    number: '11'
 ---
-As touched upon in numerous conversations, the current landscape of institutional design pedagogy is not without alternatives. While BFA and MFA programs may dominate the learning experiences of most practicing designers, these curriculums do not represent the totality of the available options.
+While design education may be centralized within institutions like Pratt, there have been myriad responses to institutional shortcomings regarding rising discourses of ethics and responsibility. Both IRL and URL groups have formed in response to the urgent need for politicized design pedagogy.
 
 <br/>
 
-Compiled here is an ever-growing list of supplemental resources, from reading lists to syllabi to self-organized continuing education initiatives.
+The 20th century played host to a wave of counter-institutional learning; perhaps the most famous of these experimental ventures was Black Mountain college, an alternative university with a co-operative ethos and ambitions to dissolve student-teacher hierarchies. <span class="contentNote">1</span> New models of teaching were tested in Roy Ascott’s “Groundcourse,” <span class="contentNote">2</span> and student insurrection roared at London’s Hornsey College of Art <span class="contentNote">3</span>. Though these three examples represent no single attitude, they underscore an understated-but-constant dialogue between the student body and their institution. Radical pedagogy resists stasis, and all parties involved must commit themselves to the project of learning.
 
 <br/>
 
-Please reach out if you have any additions for this resource. As a whole, "Where Are We" has no set end-point. It is my hope that the resources will continue to grow; whether compiled here or in additional interviews and workshops, this body of work intends to absorb all that it can and present a flexible tool with moments of resonance for all who visit.
+Not all design education programs have resisted the changing global landscape. Tucked away in the Netherlands, Werkplaats Typografie <span class="contentNote">4</span> and the Sandberg Instituut <span class="contentNote">5</span> are often lauded as counter-commercial programs focused on instilling within their students critical approaches to design practice.
 
 <br/>
 
-Thank you for engaging.
+Smaller local initiatives have cropped up across the world. In Los Angeles, the Southland Institute “is dedicated to exploring, identifying, and implementing meaningful, affordable, sustainable alternatives in design and art education in the United States.” <span class="contentNote">6</span> In New York, spaces like SSHH <span class="contentNote">7</span> and XXXI offer opportunities to enroll in single or multiple session courses trained around specific creative skill sets. London’s Evening Class <span class="contentNote">8</span> approaches topics like unionization and post-capitalist desire through self-organized working groups, and Chicago-published Extra-curricular <span class="contentNote">9</span> speculates on new models for design learning. As larger institutions hopefully begin to reevaluate their design curricula, peer-organized learning continues to open space for missing conversations.
 
-<div id="contentFill"></div>
+<br/>
+
+In approaching this initial “Where Are We?” work, I found that much of the framework that proved helpful for considering new design pedagogy came from beyond the immediate scope of the design field. I have compiled these resources (along with more design-centric content) on a microsite, directly linking full texts when possible. <span class="contentNote">10</span>
+
+<br/>
+
+Though this body of work was initiated as my undergraduate capstone, I truly hope to continue pushing “Where Are We?” as a collaborative publishing platform. If you are interested in getting involved, please reach out! I would love to share this space for our collective musings on graphic design practice. <span class="contentNote">11</span>
