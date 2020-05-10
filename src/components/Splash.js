@@ -17,14 +17,11 @@ class SplashPage extends Component {
             visible: true
         };
     }
-    
-    toggleHidden () {
-        this.setState({
-          isHidden: !this.state.isHidden
-        })
-    }
 
     componentDidMount(){
+        if (localStorage.getItem("splashShown") === "yes" ) {
+            this.setState({ visible: false })
+        };
         this.setState({
             selectedItems: this.state.list[Math.floor(Math.random() * this.state.list.length)]
         });

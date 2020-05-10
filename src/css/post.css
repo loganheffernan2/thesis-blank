@@ -129,8 +129,7 @@ li {
     @media (min-aspect-ratio: 1/1) {
     
         #artSum {
-            font-size: 36pt;
-            text-align: right;}
+            font-size: 36pt;}
         #subhead {
             font-size: 24pt;}
         .noteNumb {

@@ -7,6 +7,7 @@ import '../css/global.css'
 import '../css/splash.css'
 
 export default () =>
+
   <div id="postWrap">
       <Splash />
       <div id="vertDiv"></div>
