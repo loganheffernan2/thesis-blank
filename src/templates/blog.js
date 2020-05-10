@@ -11,15 +11,16 @@ export default function Template({
 }) {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
-  
+
   return (
+
     <div id="postWrap">
       <div id="vertDiv"></div>
       <Header title={frontmatter.title} date={frontmatter.date}/>
       <div id="postContent">
       <span class="headerBumper"></span>
       <div class="titleDiv"></div>
-      <div id="artSum">{frontmatter.subhead}</div>
+      <div id="artSum" >{frontmatter.subhead}</div>
       <div class="titleDiv"></div>
         <div
           id="textContent"
@@ -33,7 +34,7 @@ export default function Template({
         {
         frontmatter.notes.map(notes=> {
         return (
-          <li key={notes.number}>
+          <li key={notes.number} refs={notes.number}>
             <div class="titleDiv"></div>
             <span class="noteTop">
             <span class="noteNumb">{notes.number}</span>
