@@ -14,13 +14,13 @@ class SplashPage extends Component {
                 ["We don’t talk about what design is or where within the context design is situated and what designers do and how it is part of this larger socioeconomic conversation. I think designers see themselves as super precious makers, and they’re not.","— Nida Abdullah"],
                 ["One of the things that one of my teachers said at the Sandberg was, “The only way to really contribute to design is to first be ready to abandon it, to be ready to say ‘this is not a thing.’” Which to me means that if you do think that it's a [set] thing, then you’re trapped, you’re trapped in inheriting these existing vague assumptions.","— Chris Lee"]
             ],
-            visible: true
+            visible: false
         };
     }
 
     componentDidMount(){
-        if (localStorage.getItem("splashShown") === "yes" ) {
-            this.setState({ visible: false })
+        if (localStorage.getItem("splashShown") !== "yes" ) {
+            this.setState({ visible: true })
         };
         this.setState({
             selectedItems: this.state.list[Math.floor(Math.random() * this.state.list.length)]
