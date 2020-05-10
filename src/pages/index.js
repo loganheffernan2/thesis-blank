@@ -31,7 +31,7 @@ export default () =>
             <div class="titleDiv"></div>
             <span class="noteTop">
             <span class="noteNumb">1</span>
-            <span class="noteDesc">Where Are We<a class="noteLink" href="https://wherearewe.netlify.app/intro-essay/">An Introductory Essay</a></span>
+            <span class="noteDesc">In Hopes of a New Design Pedagogy<a class="noteLink" href="https://wherearewe.xyz/a-manifesto/">A Manifesto</a></span>
             </span>
             <img src="" alt=""></img>
             </li>
@@ -39,7 +39,7 @@ export default () =>
             <div class="titleDiv"></div>
             <span class="noteTop">
             <span class="noteNumb">2</span>
-            <span class="noteDesc">On Bringing Together the School of Design<a class="noteLink" href="https://wherearewe.netlify.app/anita-cooney/">A Conversation with Anita Cooney</a></span>
+            <span class="noteDesc">On Bringing Together the School of Design<a class="noteLink" href="https://wherearewe.xyz/anita-cooney/">A Conversation with Anita Cooney</a></span>
             </span>
             <img src="" alt=""></img>
             </li>
@@ -47,7 +47,7 @@ export default () =>
             <div class="titleDiv"></div>
             <span class="noteTop">
             <span class="noteNumb">3</span>
-            <span class="noteDesc">On Communications Design, Re-Engineering Design Education, and Community<a class="noteLink" href="https://wherearewe.netlify.app/jessica-wexler/">A Conversation with Jessica Wexler</a></span>
+            <span class="noteDesc">On Communications Design, Re-Engineering Design Education, and Community<a class="noteLink" href="https://wherearewe.xyz/jessica-wexler/">A Conversation with Jessica Wexler</a></span>
             </span>
             <img src="" alt=""></img>
             </li>
@@ -55,7 +55,7 @@ export default () =>
             <div class="titleDiv"></div>
             <span class="noteTop">
             <span class="noteNumb">4</span>
-            <span class="noteDesc">On Publishing and Balance<a class="noteLink" href="https://wherearewe.netlify.app/rob-blair-kurt-woerpel/">A Conversation with Rob Blair & Kurt Woerpel</a></span>
+            <span class="noteDesc">On Publishing and Balance<a class="noteLink" href="https://wherearewe.xyz/rob-blair-kurt-woerpel/">A Conversation with Rob Blair & Kurt Woerpel</a></span>
             </span>
             <img src="" alt=""></img>
             </li>
@@ -63,7 +63,7 @@ export default () =>
             <div class="titleDiv"></div>
             <span class="noteTop">
             <span class="noteNumb">5</span>
-            <span class="noteDesc">On Graphic Design's Social Relations and Applications<a class="noteLink" href="https://wherearewe.netlify.app/sally-thurer/">A Conversation with Sally Thurer</a></span>
+            <span class="noteDesc">On Graphic Design's Social Relations and Applications<a class="noteLink" href="https://wherearewe.xyz/sally-thurer/">A Conversation with Sally Thurer</a></span>
             </span>
             <img src="" alt=""></img>
             </li>
@@ -71,7 +71,7 @@ export default () =>
             <div class="titleDiv"></div>
             <span class="noteTop">
             <span class="noteNumb">6</span>
-            <span class="noteDesc">On Ethical Mediations and Design Education<a class="noteLink" href="https://wherearewe.netlify.app/nida-abdullah/">A Conversation with Nida Abdullah</a></span>
+            <span class="noteDesc">On Ethical Mediations and Design Education<a class="noteLink" href="https://wherearewe.xyz/nida-abdullah/">A Conversation with Nida Abdullah</a></span>
             </span>
             <img src="" alt=""></img>
             </li>
@@ -79,7 +79,7 @@ export default () =>
             <div class="titleDiv"></div>
             <span class="noteTop">
             <span class="noteNumb">7</span>
-            <span class="noteDesc">On Speculative Design Pedagogy<a class="noteLink" href="https://wherearewe.netlify.app/chris-lee/">A Conversation with Chris Lee</a></span>
+            <span class="noteDesc">On Speculative Design Pedagogy<a class="noteLink" href="https://wherearewe.xyz/chris-lee/">A Conversation with Chris Lee</a></span>
             </span>
             <img src="" alt=""></img>
             </li>
@@ -87,7 +87,7 @@ export default () =>
             <div class="titleDiv"></div>
             <span class="noteTop">
             <span class="noteNumb">8</span>
-            <span class="noteDesc">Appendix<a class="noteLink" href="https://wherearewe.netlify.app/appendix/">Additional Resources</a></span>
+            <span class="noteDesc">Appendix<a class="noteLink" href="https://wherearewe.xyz/appendix/">Additional Resources</a></span>
             </span>
             <img src="" alt=""></img>
             </li>
