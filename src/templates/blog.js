@@ -2,6 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import Header from '../components/Header'
 import Footer from '../components/Footer'
+import SplashTrigger from '../components/SplashTrigger'
 import '../css/post.css'
 import '../css/global.css'
 
@@ -44,6 +45,7 @@ export default function Template({
         }
         )}
       </div>
+      <SplashTrigger /> 
       <Footer /> 
     </div>
   )
