@@ -5,6 +5,7 @@ title: A Manifesto
 subhead: In Hopes of a New Design Pedagogy
 notes:
   - desc: 'Antonio Gramsci, "Selections from Prison Notebooks"'
+    image: /assets/antonioGramsci.jpg
     link: 'http://abahlali.org/files/gramsci.pdf'
     linktitle: PDF
     number: '1'
@@ -14,6 +15,7 @@ notes:
       arts. The school became famous for its approach to design, which strove to
       combine beauty with everyday function and attempted to unify the
       principles of mass production with individual artistic vision."
+    image: /assets/bauHaus.jpg
     link: 'https://en.wikipedia.org/wiki/Bauhaus'
     linktitle: Wikipedia
     number: '2'
@@ -53,6 +55,7 @@ notes:
       neoliberalism and defending human rights. The OSPAAAL was founded in
       Havana in January 1966, after the Tricontinental Conference, a meeting of
       over 500 delegates and 200 observers from over 82 countries."
+    image: /assets/ospaaalSolidarity.jpg
     link: >-
       https://en.wikipedia.org/wiki/Organization_of_Solidarity_with_the_People_of_Asia,_Africa_and_Latin_America
     linktitle: Wikipedia
@@ -115,6 +118,7 @@ notes:
       while others threw paving stones, forcing the police to retreat for a
       time. The police then responded with tear gas and charged the crowd again.
       Hundreds more students were arrested."
+    image: /assets/laBeaute.jpg
     link: 'https://en.wikipedia.org/wiki/May_68#Student_strikes'
     linktitle: Wikipedia
     number: '15'
