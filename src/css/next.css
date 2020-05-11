@@ -1,0 +1,56 @@
+#total {
+    overflow: scroll;
+    scroll-snap-type: y mandatory;
+    height: 100vh;
+    background-color: blue;}
+
+#total > div {
+    scroll-snap-align: center;}
+
+#whereAreWe {
+    position: absolute;
+    color: white;
+    font-family: "Ortica";
+    font-weight: bold;
+    font-size: 12pt;
+    top: 3.75vh;
+    left: 50%;
+    transform: translate(-50%,-50%);-ms-transform: translate(-50%,-50%);-webkit-transform: translate(-50%,-50%)}
+    
+
+.slide {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    min-width: 100vw;
+    min-height: 100vh;
+    overflow: hidden;}
+
+.slide > p {
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);-ms-transform: translate(-50%,-50%);-webkit-transform: translate(-50%,-50%);
+    font-family: "Ortica";
+    font-size: 14pt;
+    text-align: center;
+    hyphens: none;}
+
+.slide > img {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);-ms-transform: translate(-50%,-50%);-webkit-transform: translate(-50%,-50%);
+    width: 50%;
+}
+
+    @media (min-aspect-ratio: 1/1) {
+
+        #whereAreWe {
+            font-size: 18pt;}
+        .slide > p {
+            font-size: 48pt;
+            width: 90vw;}
+
+        }
