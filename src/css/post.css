@@ -107,6 +107,7 @@
 
 .noteLink {
     text-decoration: none;
+    display: block !important;
     color: blue;}
 
 .contentNote {
