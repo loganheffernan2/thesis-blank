@@ -83,6 +83,10 @@ notes:
     link: 'mailto:info@loganheffernan.com'
     linktitle: Email
     number: '11'
+  - desc: So...
+    link: 'https://wherearewe.xyz/whats-next/'
+    linktitle: What's Next?
+    number: A
 ---
 While design education may be centralized within institutions like Pratt, there have been myriad responses to institutional shortcomings regarding rising discourses of ethics and responsibility. Both IRL and URL groups have formed in response to the urgent need for politicized design pedagogy.
 
