@@ -5,6 +5,11 @@ import '../css/header.css'
 import '../css/global.css'
 
 class Header extends Component {
+
+    componentDidMount(){
+        document.title = this.props.title;
+      }
+
     render() {
         return (
             <React.Fragment>
