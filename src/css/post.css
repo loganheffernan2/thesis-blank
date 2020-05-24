@@ -45,7 +45,7 @@
 
 #artSum {
     font-family: "Ortica";
-    font-size: 24pt;
+    font-size: 18pt;
     line-height: 120%;
     margin-top: 2.5vh;
     margin-bottom: 2.5vh;
@@ -131,7 +131,7 @@ li {
     @media (min-aspect-ratio: 1/1) {
     
         #artSum {
-            font-size: 36pt;}
+            font-size: 24pt;}
         #subhead {
             font-size: 24pt;}
         .noteNumb {
