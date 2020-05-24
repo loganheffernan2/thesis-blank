@@ -72,7 +72,7 @@ notes:
     linktitle: Wikipedia
     number: '9'
   - desc: Sally Thurer for New York Times.
-    image: /assets/nytCake.jpg
+    image: ''
     link: >-
       https://www.nytimes.com/2020/03/14/opinion/sunday/yes-im-turning-50-no-im-not-really-ready.html
     linktitle: Article
@@ -86,7 +86,7 @@ notes:
       us, we can't decide what the questions should be."
     link: >-
       http://sallythurer.com/students/content/library/MichaelRock_Deprofessionalization.pdf
-    linktitle: Deprofessionalization
+    linktitle: Deprof.
     number: '11'
   - desc: 'Graphic Design: Now in Production (2011)'
     link: 'http://www.t-a-g-d.info/downloads/tools-gd-in-production.pdf'
