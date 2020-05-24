@@ -1,12 +1,13 @@
 import React from "react"
 import { graphql } from "gatsby"
-import Header from '../components/Header'
+import Header from '../components/HeaderAlt'
 import Footer from '../components/Footer'
 import SplashTrigger from '../components/SplashTrigger'
-import '../css/post.css'
+import '../css/post-alt.css'
 import '../css/global.css'
 
 export default function Template({
+  
   data, // this prop will be injected by the GraphQL query below.
 }) {
   const { markdownRemark } = data // data.markdownRemark holds your post data
@@ -18,36 +19,37 @@ export default function Template({
       <div id="vertDiv"></div>
       <Header title={frontmatter.title} date={frontmatter.date}/>
       <div id="postContent">
-      <span class="headerBumper"></span>
-      <div class="titleDiv"></div>
+      <span className="headerBumper"></span>
       <div id="artSum" >{frontmatter.subhead}</div>
-      <div class="titleDiv"></div>
+      <div className="titleDiv"></div>
         <div
           id="textContent"
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: html }}
         />
-      <div id="fullBump"></div>
+      <div id="footerBumper" />
       </div>
       <div id="postNotes">
-      <span class="headerBumper"></span>
+      <span className="headerBumper"></span>
         {
         frontmatter.notes.map(notes=> {
         return (
           <li key={notes.number} refs={notes.number}>
-            <div class="titleDiv"></div>
-            <span class="noteTop">
-            <span class="noteNumb">{notes.number}</span>
-            <span class="noteDesc">{notes.desc} <a class="noteLink" href={notes.link}>{notes.linktitle}</a></span>
+            <div className="titleDiv"></div>
+            <span className="noteBumpers">
+              <span className="noteTop">
+              <span className="noteNumb">{notes.number}</span>
+              <span className="noteDesc"><p>{notes.desc}</p> <a className="noteLink" href={notes.link}>{notes.linktitle}</a></span>
+              </span>
+              <img src={notes.image} alt=""></img>
             </span>
-            <img src={notes.image} alt=""></img>
             </li>
         )
         }
         )}
       </div>
       <SplashTrigger /> 
-      <Footer /> 
+      <Footer />
     </div>
   )
 }

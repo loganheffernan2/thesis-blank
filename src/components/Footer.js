@@ -4,13 +4,18 @@ import '../css/footer.css'
 import '../css/global.css'
 
 class Footer extends Component {
+
     render() {
+
+        var year = new Date().getFullYear();
+
         return (
             <React.Fragment>
-            <ul id="footerWrap">
-                <li>Where Are We?</li>
-                <li>©2020</li>
-            </ul>
+            <div id="footerBox">
+            <div id="footerCred">
+                <p>© {year} Where Are We?</p>
+            </div>
+            </div>
             </React.Fragment>
         )
     }

@@ -1,0 +1,48 @@
+#headerBox {
+    position: fixed;
+    min-width: 100%;
+    height: auto;
+    z-index: 9999;}
+
+#headerHome {
+    position: relative;
+    display: block;
+    min-width: 100%;
+    height: 7.5vh;
+    background-color: white;
+    border-bottom: 3px solid blue;
+    font-size: 18pt;
+    color: blue;
+    font-family: Formular, sans-serif;
+    font-weight: bold;}
+    
+#headerHome p {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%); -ms-transform: translate(-50%,-50%); -webkit-transform: translate(-50%,-50%);}
+
+#headerTitle {
+    position: relative;
+    display: block;
+    min-width: 100%;
+    height: 7.5vh;
+    background-color: white;
+    border-bottom: 3px solid blue;
+    font-size: 18pt;
+    color: blue;
+    font-family: "Formular", Arial, Helvetica, sans-serif;
+    font-weight: normal;}
+
+#headerTitle p {
+    position: absolute;
+    white-space: nowrap;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%); -ms-transform: translate(-50%,-50%); -webkit-transform: translate(-50%,-50%);}
+
+
+
+    @media (min-aspect-ratio: 1/1) {
+
+    }

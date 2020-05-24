@@ -1,0 +1,166 @@
+* {
+    -moz-box-sizing: border-box; 
+    -webkit-box-sizing: border-box; 
+    box-sizing: border-box;
+    padding: 0;
+    hyphens: auto;}
+
+.headerBumper {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 15vh;}
+
+#footerBumper {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 7.5vh;}
+
+#postWrap {
+    position: relative;
+    display: block;
+    height: auto;
+    overflow: hidden;
+    z-index: 999;}
+
+#vertDiv {
+    position: fixed;
+    top: 0;
+    width: 3px;
+    height: 100%;
+    left: 60%;
+    background-color: blue;}
+
+#postContent {
+    position: relative;
+    display: block;
+    top: 0; margin-top: 0;
+    display: inline-block;
+    width: 60%;
+    height: auto;
+    text-align: left;
+    padding-left: 2.5vw;
+    padding-right: 2.5vw;}
+
+#textContent {
+    position: relative;
+    display: block;
+    margin-top: 2.5vh;
+    margin-bottom: 2.5vh;}
+
+#artSum {
+    font-family: "Formular", Arial, Helvetica, sans-serif;
+    font-size: 24pt;
+    line-height: 120%;
+    margin-top: 2.5vh;
+    margin-bottom: 2.5vh;
+    text-align: left;
+    hyphens: none !important;}
+
+.titleDiv {
+    margin-left: -2.5vw;
+    margin-right: -2.5vw;
+    min-width: 100%;
+    height: 3px;
+    top: 0;
+    background-color: blue;}
+
+#postContent:not(#artsum) {
+    font-family: "Formular", Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    line-height: 1.5rem;}
+
+.noteBumpers {
+    position: relative;
+    display: block;
+    margin-top: 2.5vh;
+    margin-bottom: 2.5vh;}
+
+#postNotes {
+    position: fixed;
+    top: -3px; margin-top: 0;
+    display: inline-block;
+    width: 40%;
+    overflow-x: hidden;
+    height: 100%;
+    overflow: scroll;
+    text-align: left;
+    padding-left: 2.5vw;
+    padding-right: 2.5vw;
+    padding-bottom: 7.5vh;
+    font-family: "Formular", Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    line-height: 1.5rem;}
+
+#postNotes img {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-top: 2.5vh;}
+
+li {
+    list-style-type: none;
+    top: 0;}
+
+.noteNumb {
+    position: relative;
+    float: left;
+    width: 100%;
+    color: blue;}
+
+.noteTop {
+    position: relative;
+    width: 100%;
+    display: block;}
+
+.noteDesc {
+    position: relative;
+    display: inline-block;
+    width: 100%;}
+
+.noteDesc * {
+    display: block;}
+
+.noteLink {
+    text-decoration: none;
+    display: block !important;
+    color: blue;}
+
+.contentNote {
+    color: blue;}
+
+#subhead {
+    font-size: 18pt;
+    line-height: 120%;}
+
+#contentFill {
+    position: relative;
+    height: 75vh;}
+
+    @media (min-aspect-ratio: 1/1) {
+    
+        #artSum {
+            font-size: 36pt;}
+        #subhead {
+            font-size: 24pt;}
+        .noteNumb {
+            width: 10%;
+            top: 0;}
+        .noteDesc {
+            width: 90%;
+            padding-right: 15vw;
+            margin-bottom: 2.5vh;}
+        #postContent p:not(#artsum) {
+            padding-left: 15vw;}
+        #postContent img {
+            padding-left: 15vw;
+            width: 100%;}
+        #postNotes img {
+            position: relative;
+            display: block;
+            width: 100%;
+            height: auto;}
+        
+    }
