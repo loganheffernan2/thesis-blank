@@ -47,29 +47,21 @@ notes:
   - desc: >-
       "A school becomes a factory producing designers, one that, in keeping with
       the principles of “good design,” turns them into efficient and
-      interchangeable parts ready to hit the market. Like a spinning ouroboros 
-      Early alchemical ouroboros illustration with the words ἓν τὸ πᾶν (“The
-      All is One”) from the work of Cleopatra the Alchemist. —a snake swallowing
-      its own tail—educational institutions pursue what the market requires (a
-      response to capital’s demand for cheap, standardized, and predictable
-      parts), molding future designers into interchangeable units. To what
-      extent has this cycle, an entanglement of design and industry, come to be
-      considered graphic design’s “factory settings”—a kind of default,
-      inherent, and out of the box approach to how its practice, pedagogy, and
-      history have formed and are enacted?"
+      interchangeable parts ready to hit the market. Like a spinning ouroboros—a
+      snake swallowing its own tail—educational institutions pursue what the
+      market requires (a response to capital’s demand for cheap, standardized,
+      and predictable parts), molding future designers into interchangeable
+      units. To what extent has this cycle, an entanglement of design and
+      industry, come to be considered graphic design’s “factory settings”—a kind
+      of default, inherent, and out of the box approach to how its practice,
+      pedagogy, and history have formed and are enacted?"
     link: >-
       https://walkerart.org/magazine/jacob-lindgren-graphic-designs-factory-settings
     linktitle: Graphic Design's Factory Settings
     number: '8'
-  - desc: >-
-      "Gestalt psychologists emphasized that organisms perceive entire patterns
-      or configurations, not merely individual components. The view is sometimes
-      summarized using the adage, "the whole is more than the sum of its parts."
-      Gestalt principles, proximity, similarity, figure-ground, continuity,
-      closure, and connection, determine how humans perceive visuals in
-      connection with different objects and environments."
-    link: 'https://en.wikipedia.org/wiki/Gestalt_psychology'
-    linktitle: Wikipedia
+  - desc: 'Art, Design and Gestalt Theory by Roy R. Behrens'
+    link: 'http://www.g-e-s-t-a-l-t.org/MEDIA/PDF/Art-Design-and-Gestalt-Theory.pdf'
+    linktitle: PDF
     number: '9'
   - desc: Sally Thurer for New York Times.
     image: ''
@@ -114,7 +106,7 @@ notes:
       some "foreign body" - the oriental, the feminine, the infantile, the
       vulgar, or the pathological - or by relegating it to the realm of the
       superficial, the supplementary, the inessential, or the cosmetic." (David
-      Batchelor: Chromophobia/Google Books)
+      Batchelor: Chromophobia)
     link: 'https://www.youtube.com/watch?v=syrOAKvfJ_c'
     linktitle: 'David Batchelor: The Fear of Colour'
     number: '16'
@@ -238,7 +230,7 @@ notes:
       Dazed 100er Mia Kerin and artist Lucas Mascatello that rejects image
       almost entirely, a sprawling mass of text that feels as confrontational as
       it does conversational."
-    image: /assets/civilizationPaper.jpg
+    image: /assets/ST-CivYellow.png
     link: >-
       https://www.dazeddigital.com/life-culture/article/39939/1/civilization-magazine-new-york-richard-turley-mia-kerin-interview
     linktitle: Dazed
@@ -486,9 +478,9 @@ I think there are a lot of problems that we can address using these communicatio
 
 **LH** I find it important to deeply consider, “How counter-capital and how countercultural can design be?” Especially in this country, there’s the constraint that we don’t have the same government funding that other nations do. If you look at Metahaven <span class="contentNote">(30)</span>, they’re operational because they can get grants for making all of their work. There’s something specifically American about how difficult it is to distance yourself from work where the end-point is amassing capital. When we study design and consider the ways different practices operate, we don’t necessarily take into account the privilege behind a lot of them when it comes to funding. It would be much harder to have a US-based Metahaven than for the studio to operate as it does today in the Netherlands.
 
-<br/>\
-\
-**ST** There are a couple things at play. National funding for the arts is one of the things, that’s a great thing. I’m not sure how much expertise I have to talk about this,but I can talk about the nature of late capitalism and the online economy and how it’s really changed a lot of the models for these sorts of things. Everything has become extremely competitive and atomized now; it’s about how many likes you have on Instagram, which really disrupted a lot.
+<br/>
+
+**ST**There are a couple things at play. National funding for the arts is one of the things, that’s a great thing. I’m not sure how much expertise I have to talk about this,but I can talk about the nature of late capitalism and the online economy and how it’s really changed a lot of the models for these sorts of things. Everything has become extremely competitive and atomized now; it’s about how many likes you have on Instagram, which really disrupted a lot.
 
 <br/>
 
