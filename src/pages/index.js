@@ -9,7 +9,6 @@ import '../css/splash.css'
 export default () =>
 
   <div id="postWrap">
-      <Splash />
       <HeaderAlt title="Home" />
       <div id="vertDiv"></div>
       <div id="postContent">
